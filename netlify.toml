@@ -13,13 +13,13 @@ LANDING_PAGE = "readme"
 LANDING_TITLE = "🥔"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/Yarden-zmr/me-zola"
+REPO_URL = "https://github.com/Yarden-zmr/me"
 # (Optional) Site title in navbar
 SITE_TITLE = "Yarden > open sourced"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://yarden-zamir-0.netlify.app"
+SITE_URL = "https://yarden-zamir.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
