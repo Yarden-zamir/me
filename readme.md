@@ -9,7 +9,7 @@ Get a feel for what I want this sandbox to be like
 [[The Sovereign Mind]]  
 [[Shower Thought - how can we capitalize]]  
 [[I bought winrar]]  
-[[A reeds tale]]
+[[A reeds tale ]]  
 [[Digital Mindfield Manifest]]  
 
 # Open Source tho??
