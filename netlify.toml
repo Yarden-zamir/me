@@ -19,7 +19,7 @@ SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "yarden-zamir-0"
+SITE_URL = "https://yarden-zamir-0.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
