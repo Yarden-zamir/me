@@ -20,7 +20,9 @@ I think it would be cool to think, if already in a public way, also in an open o
 
 # Ok, but How?
 
-~~[MindStone](https://mindstone.tuancao.me/) ~~
-Using a [obsidian-zola-plus](github.com/Yarden-zmr/obsidian-zola-plus)
-# What is in here?
-Ideas, thoughts, write-ups, brainstorming 
+~~[MindStone](https://mindstone.tuancao.me/) ~~  
+Using [obsidian-zola-plus](github.com/Yarden-zmr/obsidian-zola-plus) which is a fork of rockmanvnx6's fork of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)
+
+# What is in Here?
+
+Ideas, thoughts, write-ups, brainstorming
