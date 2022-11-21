@@ -1,4 +1,4 @@
-a# What Are You Doing Yarden?
+# What Are You Doing Yarden?
 
 I always wanted to write more than just to myself, this is my attempt to do so, by making my writing [[Public by default]] and thus making the friction point on the **hiding** action instead of on the **sharing** one, and increasing the [[Action Potential model|Action Potential]] of my desired goal
 
@@ -20,7 +20,7 @@ I think it would be cool to think, if already in a public way, also in an open o
 
 # Ok, but How?
 
-[MindStone](https://mindstone.tuancao.me/) is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish) that generates a next js static site that I can then ci directly from [[github]] to [[netify]] or gh pages
-
+~~[MindStone](https://mindstone.tuancao.me/) ~~
+Using a [obsidian-zola-plus](github.com/Yarden-zmr/obsidian-zola-plus)
 # What is in here?
 Ideas, thoughts, write-ups, brainstorming 
