@@ -1,0 +1,65 @@
+---
+aliases: []
+tags: [dates/2022/02/13/migration, protocols ]
+---
+-   Rules
+    -   Make food
+        -   Doesn't need to be good food, but I have to make something everyday, even a simple sandwich
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) making any sort of food → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) making complex food → 2 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) making food for others → 1 pts
+    -   Write
+        -   It's important to me to write a lot during the process, it helps me thing through things
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) writing → 3 pts
+    -   Sun time
+        -   Any activity that puts me in the sun for more than 10 mins is good
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) going outside to the sun for more than 10 mins → 3 pts
+    -   Talk to people
+        -   Phone or in person
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) Talking to a person I wouldn't otherwise talk to → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) having a really good conversation with someone → 2 pts
+    -   Reduce media
+        -   every day, remove one sort of media and try to live without it.
+        -   The media that I do have I can consume however and whenever I want as long as I comply with the rest of [Rules](https://www.remnote.io/doc/6anisxFrrC4h4zSMq)
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) not using the removed media from that day → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) not using the removed media from past days → 2 pts
+    -   Meditate
+        -   Try out a new of meditation each day
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) trying a new meditation form → 3 pts
+    -   Sleep
+        -   Wake up↔at 6:00 AM
+        -   Go to sleep whenever I want as long as I [Wake up](https://www.remnote.io/doc/B5ihT6ZADyCkziujE)
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) waking up in time → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) waking up before alarm → 3 pts
+    -   Listen
+        -   Make sure to listen to myself, the rules here are malleable
+        -   I'm not supposed to suffer, I'm supposed to develop
+    -   Work
+        -   2 hours of work on [Judo](https://www.remnote.io/doc/tBPCxbyJHn59BQQQM)
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) working on Judo → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) working on judo 2 hours → 3 pts
+    -   Have an idea and act on it
+        -   When I have an idea, minimize it to a one day build and make it happen
+        -   [~Example](https://www.remnote.io/doc/kHgk4XK3y2HDLQaWv)→I just had an idea of making the daily scoring automatic
+            -   I could analyze remnote dynamically and send a push notification with result or combine remnote with microsoft todo
+            -   instead, what I should do is find a way to make it easier, for example, an excel sheet, that would be really easy to make and to use.
+                -   If I want to integrate that into other stuff as well that's alright, after the first part is finished and working the next part is a new idea and project for a new day
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) minimizing new idea to fit a day → 3 pts
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) Finishing an idea with a working product → 3 pts
+    -   Bed is for sleep or sex
+        -   Don't use bed for anything that's not sleep
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) not using bed for anything that's not sleep or sex → 1 pts
+    -   TODO
+        -   Do a task I need to do
+        -   [~Gamified Elements](https://www.remnote.io/doc/C9ZKEzt37M4iB9bDp)
+            -   [On successfully](https://www.remnote.io/doc/WJFKNQ697cxQaBndJ) finishing a task → 1 pts
