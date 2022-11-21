@@ -38,7 +38,7 @@ SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "main"
+ROOT_SECTION_NAME = "me"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
