@@ -112,7 +112,10 @@ sum = 0
 list -/ sum += it
 
 # Add All Items in List Smart Piping
-sum = list -| it + previous ?: 0 |- it.last
+```pipes
+
+sum = bunch of numbers -| it + previous |- it.last
+```
 
 # Print All Items in a List Smart Piping
 list -| print it
