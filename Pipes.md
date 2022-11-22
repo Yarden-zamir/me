@@ -47,6 +47,8 @@ add (number :Number) (another number :Number) = {
 add (5) (64)
 ```
 
+---
+
 		or
             add (first : Number) to (second : Number){
                 return first number + second number
