@@ -59,13 +59,13 @@ x = 1
 y = 2
 z = x + y
 something = sleep 5 | z + 1
-something | print it
+something | print
 print 1
 print 2
 print 3
 ```
 
- Output 2 1 3 (unordered) (after 5 seconds) 4
+ Output 2 1 3 (unordered) then after 5 seconds will print 4
 
 If I Want the Output to Be in Order We Need to Pipe Eg:
 ```pipes
@@ -80,15 +80,23 @@ print 2 |
 print 3
 ```
 
-# Output 4 1 2 3 (after 5 seconds)
-5 | print it # as it is implied. the output if the begining of the pipe (5) is passed to the next pipe segment as it.
+Output 4 1 2 3 (after 5 seconds)
+```pipes
+print (5)
+5 | print (it)
+5 | print
+```
+as it is implied. the output if the begining of the pipe (5) is passed to the next pipe segment as `it`.
 
-sleep (seconds : Number) = thread::sleep(seconds * 1000)
 
+```pipes
 after (seconds : Number) do (something : Block) = sleep seconds | something
 generate number after (seconds : Number) = {
-    after
+    after (seconds) do 
 }
+```
+
+
 ---
 | is the pipe operator, will preform the left side and pass enviorment to the right side
 -| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additonally to it, it will pass 'previous' and 'next' variables that will await if used
