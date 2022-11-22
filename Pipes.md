@@ -20,11 +20,15 @@ Because blocks are not awaited by default, ten lines of code means ten 'pipes' t
 # Syntax
 
 ## Function Definitions
+functions are just lazy variables that evaluate when called.
 input brackets for each argument names are plain text, can use spaces and symbols (except for some special ones like brackets), arguments can be anywhere in the function's signature
 
-if there are missing arguments, attempt to use the last pipe value (`it`) by destructuring it and mapping to the arguments in order. Meaning that `1 | increment` will output `2` and `(1,2) | increment` will output 2 as well because `2` (the second argument) is not mapped to anywhere as there is only one argument. This should be a warning / error if known. 
+if there are missing arguments, attempt to use the last pipe value (`it`) by de-structuring it and mapping to the arguments in order. Meaning that `1 | increment | print` will output `2` and `(1,2) | increment` will output 2 as well because `2` (the second argument) is not mapped to anywhere as there is only one argument. This should be a warning / error if known. 
 `(1,2) | add () to`
 ### Examples
+```pipes
+increment (number)= number + 1
+```
 ```pipes
 make stuff happen = {
 	do stuff
