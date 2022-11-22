@@ -3,25 +3,32 @@ aliases: [Pipes the programming language]
 tags: [dates/2022/11/22, ]
 ---
 
-Random idea for programming language - pipe
+Random idea for programming language - pipes
 # core ideas 
 ## pipes
-        the last block in a pipe is the returned value
-        pipes are evaluated from left to right inorder
-# block
-        blocks are dispatched in order but can evaluate in order of completion and are waited when needed
-    async
-    function definitions
-        input bracets for each argument
-        names are plain text, can use spaces and symbols (except for some special ones like brackets)
-        example -
-            make stuff happen{
-                do stuff
-            }
-            example 2 -
-            add (Number) to (Number){
-                return (args[0]) + (args[1])
-            }
+the last block in a pipe is the returned value
+pipes are evaluated from left to right in order
+## block
+blocks are dispatched in order but can evaluate in order of completion and are waited when needed
+
+# Async  by default
+Because blocks are not awaited by default, ten lines of code means ten 'pipes' that are asynchronous
+
+# Syntax
+## function definitions
+input brackets for each argument names are plain text, can use spaces and symbols (except for some special ones like brackets), arguments can be anywhere in the function's signature
+### examples
+```pipes
+make stuff happen{
+	do stuff
+}
+```
+```pipes
+add (Number) to (Number){
+	return (args[0]) + (args[1])
+}
+```
+
             or
             add (first : Number) to (second : Number){
                 return first number + second number
