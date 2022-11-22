@@ -85,7 +85,7 @@ print (5)
 5 | print (it)
 5 | print
 ```
-as it is implied. the output if the begining of the pipe (5) is passed to the next pipe segment as `it`.
+as it is implied. the output if the beginning of the pipe (5) is passed to the next pipe segment as `it`.
 
 ```pipes
 after (seconds : Number) do (something : Block) = sleep seconds | something
@@ -98,6 +98,7 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 - -| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additionally to it, it will pass 'previous' and 'next' variables that will await if used
 - ?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe with the new (old) pipe value / it. so `['red', 'green'] -| it.length >3 ?| print` will print `green`
 - -/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
+- -\ ordered reversed split operator
 - |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
 - ; is a pipe seal # maybe not needed
 ---
