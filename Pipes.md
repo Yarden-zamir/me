@@ -24,10 +24,11 @@ Because blocks are not awaited by default, ten lines of code means ten 'pipes' t
 * Any variable that has brackets in it's definition is treated as a lazy variable / function.
 * input brackets for each argument names are plain text, can use spaces and symbols (except for some special ones like brackets), arguments can be anywhere in the function's signature
 
-if there are missing arguments, attempt to use the last pipe value (`it`) by de-structuring it and mapping to the arguments in order. Meaning that `1 | increment | print` will print `2` and `[1,69] | increment | print` will print 2 as well because `69` (the second argument) is not mapped anywhere as there is only one argument. This should be a warning / error if known. 
-`[1,2] | add () to`
-`[1,2] | add it.first to it.second`
-`[1,2] | add it[0] to it[1]`
+if there are missing arguments, attempt to use the last pipe value (`it`) by de-structuring it and mapping to the arguments in order. Meaning that `1 | increment | print` will print `2` and `[1,69] | add | print` will print 70
+`[1,2] | add`
+`[1,2] | add it.first it.second`
+`[1,2] | add it[0] it[1]`
+
 ### Examples
 ```pipes
 increment (number)= number + 1
@@ -38,12 +39,12 @@ make stuff happen () = {
 }
 ```
 ```pipes
-add (number :Number) to (another number :Number) = {
+add (number :Number) (another number :Number) = {
 	number + another number
 }
 
 # usage:
-add (5) to (64)
+add (5) (64)
 ```
 
 		or
