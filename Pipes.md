@@ -96,12 +96,12 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 
 - | is the pipe operator, will preform the left side and pass environment to the right side
 - -| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additionally to it, it will pass 'previous' and 'next' variables that will await if used
-- ?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe.
+- ?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe with the new (old) pipe value / it. so `['red', 'green'] -| it.length >3 ?| print` will print `green`
 - -/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
 - |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
 - ; is a pipe seal # maybe not needed
 ---
-* `pipe[0]` is the current value of the pipe 
+* `pipe[0]` is the current value of the pipe
 * `it` is a pointer for `pipe[0]`
 - `pipe` is the current pipe stack
 ---
