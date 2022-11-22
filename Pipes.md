@@ -118,15 +118,19 @@ sum = bunch of numbers -| it + previous |- it.last
 ```
 
 # Print All Items in a List Smart Piping
+```pipes
 list -| print it
+```
 
 # Print All Items in a List Sequential Piping
+```pipes
 list -/ print it
+```
 
 # Print All Item That Are Even in a List Smart Piping
 list = [1, 2, 3, 4, 5]
-list -| it % 2 == 0 ?|- print it# output [2, 4]     #prints a list of all even numbers
-list -| it % 2 == 0 ?| print it # output 2 4        #prints each even number
+list -| it % 2 == 0 ?|- print it# output [2, 4]     # prints a list of all even numbers
+list -| it % 2 == 0 ?| print it # output 2 4        # prints each even number when it's evaluated
 list -| it % 2 != 0 ?|  # if it is not even, pipe seal to stop flow
 it
 |- print it
