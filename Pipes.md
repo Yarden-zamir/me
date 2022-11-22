@@ -46,28 +46,15 @@ add (number :Number) (another number :Number) = {
 # usage:
 add (5) (64)
 ```
+```pipes
+sleep (seconds : Number) = thread::sleep(seconds * 1000)
+
+```
 
 ---
 
-		or
-            add (first : Number) to (second : Number){
-                return first number + second number
-            }
-            to call
-            add 5 to 6
-    function calls
-        function calls are made by putting the name of the function and the arguments in brackets
-        example -
-            add 5 to 6
-            or
-            add (5) to (6)
-        if there is one missing argument, attempt to use the last pipe value (it)
 
-# This is a Comment
-
-# Block - a Block Executes All the Lines in
-examples -
-
+```pipes
 x = 1
 y = 2
 z = x + y
@@ -76,10 +63,12 @@ something | print it
 print 1
 print 2
 print 3
+```
 
-# Output 2 1 3 (scrambled) (after 5 seconds) 4
+ Output 2 1 3 (unordered) (after 5 seconds) 4
 
-# If I Want the Output to Be in Order We Need to Pipe Eg:
+If I Want the Output to Be in Order We Need to Pipe Eg:
+```pipes
 x = 1
 y = 2
 z = x + y
@@ -89,6 +78,7 @@ print it |
 print 1 |
 print 2 |
 print 3
+```
 
 # Output 4 1 2 3 (after 5 seconds)
 5 | print it # as it is implied. the output if the begining of the pipe (5) is passed to the next pipe segment as it.
