@@ -1,3 +1,4 @@
+![https://img.shields.io/badge/Github-Yarden--zmr-brightgreen]
 # What Are You Doing Yarden?
 I always wanted to write more than just to myself, this is my attempt to do so, by making my writing [[Public by default]] thus making the friction point on the **hiding** action instead of on the **sharing** and increasing the [[Action Potential model|Action Potential]] of my desired goal
 
