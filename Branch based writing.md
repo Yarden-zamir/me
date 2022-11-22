@@ -3,7 +3,7 @@ aliases: []
 tags: [dates/2022/11/21, ]
 ---
 
-
+The idea of branch based writing is based on the assumption that some pieces of information are not optimally described with a linear one dimensional stream (standard text). This is one "data structure" that may be better. 
 # Examples
 ## Information Piece, Wiki Style
 ### Original
