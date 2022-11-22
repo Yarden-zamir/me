@@ -53,7 +53,6 @@ sleep (seconds : Number) = thread::sleep(seconds * 1000)
 
 ---
 
-
 ```pipes
 x = 1
 y = 2
@@ -88,27 +87,23 @@ print (5)
 ```
 as it is implied. the output if the begining of the pipe (5) is passed to the next pipe segment as `it`.
 
-
 ```pipes
 after (seconds : Number) do (something : Block) = sleep seconds | something
-generate number after (seconds : Number) = {
-    after (seconds) do 
-}
+generate number after (seconds : Number) = after (seconds) do {random::number}
 ```
 
-
 ---
-| is the pipe operator, will preform the left side and pass enviorment to the right side
--| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additonally to it, it will pass 'previous' and 'next' variables that will await if used
-?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe
--/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
 
-|- is a pipe join operator, will join all pipes on the left side into one pipe
-; is a pipe seal # maybe not needed
+- | is the pipe operator, will preform the left side and pass environment to the right side
+- -| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additionally to it, it will pass 'previous' and 'next' variables that will await if used
+- ?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe.
+- -/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
+- |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
+- ; is a pipe seal # maybe not needed
 ---
-pipe[0] is the current value of the pipe
-it is a pointer for pipe[0]
-pipe is the current pipe stack
+* `pipe[0]` is the current value of the pipe 
+* `it` is a pointer for `pipe[0]`
+- `pipe` is the current pipe stack
 ---
 list = [1, 2, 3, 4, 5]
 
