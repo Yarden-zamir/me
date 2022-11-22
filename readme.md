@@ -13,6 +13,7 @@ Get a feel for what I want this sandbox to be like
 [[I bought winrar]]  
 [[A reeds tale]]  
 [[Digital Mindfield Manifest]]  
+[[Branch based writing]]
 
 # Open Source tho??
 I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind" or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
