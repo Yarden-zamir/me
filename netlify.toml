@@ -74,3 +74,4 @@ GRAPH_OPTIONS = """
         	},
         }
         """
+edit_page = "y"
