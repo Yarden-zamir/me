@@ -10,4 +10,4 @@ Which is a pretty good initial definition, aside from one element, the biologica
 I may define evolution in an even more distilled manor, evolution is trial and error. Simple, yet sufficient for this thought experiment
 
 Now, in the development of Humanity, there are a few elements that relay on evolution, the simplest one would be genetic evolution, where each iteration is a "trial" for a set of genes based on the last with slight changes. Then there is social [[evolution]], an evolution of ideas that are meant to better humanity 
-It's important for us to understand the destination between the evolution of the human species in terms of genes and the evolution of the human socity
+It's important for us to understand the destination between the evolution of the human species in terms of genes and the evolution of the human society

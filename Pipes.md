@@ -135,6 +135,9 @@ list -| it % 2 == 0 ?| print it # output 2 4        # prints each even number wh
 list -| it % 2 != 0 ?|  # if it is not even, pipe seal to stop flow
 it
 |- print it
+
+---
+[idea] what if instead of assigning variables with equals, we pip into names?
 ---
 
 # Lets Assume List is a Bunch of Elements with Their Own Index (element : Any, Index : Int) Tuples

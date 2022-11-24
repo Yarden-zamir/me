@@ -25,3 +25,6 @@ Using [obsidian-zola-plus](https://github.com/Yarden-zmr/obsidian-zola-plus) whi
 
 # What is in Here?
 Ideas, thoughts, write-ups, brainstorming
+
+# What is Not in Here?
+Journals, people notes, other stuff I'm not brave enough to share yet
