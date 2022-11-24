@@ -6,7 +6,7 @@ tags: [dates/2022/02/13/migration, protocols]
 This is a manifest for the workflow I've constructed for my personal digital and organic life. It helps me stay on top of the things I consume, create, observe, help me to do more of each of those three things and better.
 ## Tools 
 To implement such a system there needs to be an interface for which tools and types of tools needed. This is how I classify those.
-### Launcher
+### Launchers
 In our digital lives we have many forms of launchers, the core idea is a place where you can easily launch a tool to aid in a specific need fast. 
 examples:
 - Desktop
@@ -24,7 +24,7 @@ examples:
 	- Available with button click 
 	- 2d (win10)
 	- Folders
-	- Easy to click (As [[Fitts law]] explains, the buttons have infinite effective height when calculating clicability),
+	- Easy to click (As [[Fitts law]] explains, the buttons have infinite effective size when calculating clicability),
 - Browser bookmark bar
 	- Always visible while in browser
 	- Folders
@@ -45,6 +45,7 @@ The core of the workflow, this is where ideas develop and memories stored, where
 
 ### Calendar
 ### Todo list
+A short list
 ## Tools that you **shouldn't** need
 #### Inbox
 Most digital workflows involve the use of an inbox of some sort where you put all of the unfiltered input and then at a set time you go though and slowly chip away at the list to funnel the entries into their respective spaces and tools.
