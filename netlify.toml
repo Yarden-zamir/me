@@ -35,7 +35,6 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 # (Optional, default true) Whether to use standard Markdown strict line breaks
 STRICT_LINE_BREAKS = ""
-
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
