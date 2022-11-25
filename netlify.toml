@@ -33,7 +33,7 @@ SLUGIFY = "y"
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
-# (Optional, default true) Whether to use standard Markdown strict line breaks
+# (Optional, default true) Whether to use standard Markdown strict line breaks.
 STRICT_LINE_BREAKS = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
@@ -76,4 +76,4 @@ GRAPH_OPTIONS = """
         	},
         }
         """
-edit_page = "y"`
+edit_page = "y"
