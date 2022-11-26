@@ -31,3 +31,5 @@ How to achieve goals: Goal setting theory
                 2. example rules
                     1. check messages one in the morning and one in the night, the rest of the time phone is off.
                     2. If board [or maybe just unfocused] - Drink water, go for a walk, train piano then go back to work.
+
+
