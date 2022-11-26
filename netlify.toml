@@ -41,9 +41,9 @@ SIDEBAR_COLLAPSED = ""
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "me"
+COMMENTS_GISCUSS = "y"
+EDIT_PAGE = "y"
 # (Optional) visjs graph options. Can remove if desired.
-comments_giscuss = "y"
-edit_page = "y"
 GRAPH_OPTIONS = """
         {
         	nodes: {
@@ -78,4 +78,3 @@ GRAPH_OPTIONS = """
         	},
         }
         """
-edit_page = "y"
