@@ -47,4 +47,4 @@ How to achieve goals: Goal setting theory
 			1. Can't stand the silence, dependent on music or youtube vids
 	3. example rules
 		1. check messages once in the morning and one in the night, the rest of the time phone is off.
-		2. If board [or maybe just unfocused] - Drink water, go for a walk, train piano then go back to work.
+		2. If bored [or maybe just unfocused] - Drink water, go for a walk, train piano then go back to work.
