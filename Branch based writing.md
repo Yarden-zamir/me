@@ -18,8 +18,8 @@ Benzene is used mainly as an intermediate to make other chemicals, above all eth
 		- ethylbenzene
 			- More than half of entire benzene production is processed into ethylbenzene
 			- precursor to styrene which is used to make
-			- Polymers
-			- Plastics
+				- Polymers
+				- Plastics
 		- cumene
 			- Some 20% of the benzene production is used to manufacture cumene, which is needed to produce
 				- phenol
