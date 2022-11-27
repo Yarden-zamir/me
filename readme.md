@@ -1,8 +1,13 @@
 ---
 aliases: [Starting point]
 tags: [dates/2022/11/27, ]
+chips:
+  My Github: https://github.com/Yarden-zmr
+  This Repo: https://github.com/Yarden-zmr/me
+  https://img.shields.io/github/commit-activity/w/yarden-zmr/me?label=Content%20commits: https://github.com/Yarden-zmr/me
+  https://img.shields.io/website?url=https%3A%2F%2Fyarden-zamir.com: https://www.yarden-zamir.com/
+  
 ---
-[![Github profile](https://img.shields.io/badge/Github-Yarden--zmr-orange)](https://github.com/Yarden-zmr) [![Github profile](https://img.shields.io/github/commit-activity/w/yarden-zmr/me?label=Content%20commits)](https://github.com/Yarden-zmr/me) [![Build Status](https://img.shields.io/website?url=https%3A%2F%2Fyarden-zamir.com)](https://yarden-zamir.com) [![Github profile](https://img.shields.io/badge/Github-Yarden--zmr/me-purple)](https://github.com/Yarden-zamir/me)
 
 # What Are You Doing Yarden? What is This Place?
 I have always wanted to write more than just for myself. This is my attempt to do so by making my writing [[Public by default]], thus putting the friction point on hiding rather than sharing and increasing the [[Action Potential model|Action Potential]] of my desired goal
