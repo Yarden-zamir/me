@@ -28,4 +28,4 @@ work the player Hass to do:
 - Has to be no more than ten mins
 - Has to be simple enough but still challenging
 - Ideas
-	-  Sort all of the people of ages under 18 that have Rating under a specific amount
+	-  Sort all of the people of ages under 18 that have Rating: under a specific amount

@@ -2,6 +2,9 @@
 aliases: []
 tags: [dates/2022/11/14, media/videos ]
 source: https://www.youtube.com/watch?v=mPXLP9mYRi4
+chips:
+  Rating: 79
+  consumed: true
 ---
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=mPXLP9mYRi4" target="_blank">

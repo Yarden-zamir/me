@@ -8,10 +8,10 @@ kindle-sync:
  bookImageUrl: "https://m.media-amazon.com/images/I/818mosqlAlL._SY160.jpg"
  highlightsCount: 3
 tags: [media/books]
-Consumed: true
+chips:
+  Rating: 82
+  consumed: true
 ---
-# Beyond the Shadows
-Rating:: 81
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)
 * ASIN: B00FQZWRVE

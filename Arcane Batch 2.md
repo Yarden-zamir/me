@@ -1,6 +1,9 @@
 ---
 aliases: []
 tags: [dates/2022/02/13/migration, media/shows ]
+chips:
+  Rating: 98
+  consumed: true
 ---
  
 # Arcane
@@ -10,9 +13,7 @@ tags: [dates/2022/02/13/migration, media/shows ]
 - [[Arcane Batch 1|Batch 1]]
 ## Comment:
 Really amazing, above and beyond amazing, every character is gold, story and development is top notch, crazy good animation. An incredible piece of art, truly.
-  Rating::98
-	Consumed:: true
 	
-Watching episode 4 (batch 2)  and they are celebrating progress day, which sounds like an interesting idea #seeds/worldbuilding 
+Watching episode 4 (batch 2)  and they are celebRating: progress day, which sounds like an interesting idea #seeds/worldbuilding 
 
 Fuck, gotta say, this show is the best

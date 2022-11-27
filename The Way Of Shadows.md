@@ -8,10 +8,10 @@ kindle-sync:
  bookImageUrl: "https://m.media-amazon.com/images/I/81T5R5w8E4L._SY160.jpg"
  highlightsCount: 3
 tags: [media/books]
-Consumed: true
+chips:
+  Rating: 83
+  Consumed: true
 ---
-# The Way Of Shadows
-Rating::83
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)
 * ASIN: B002TXZRPE

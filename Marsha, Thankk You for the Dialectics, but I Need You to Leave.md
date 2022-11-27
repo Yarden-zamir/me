@@ -2,6 +2,9 @@
 aliases: []
 tags: [dates/2022/11/14, media/videos ]
 source: https://music.youtube.com/watch?v=aBOJzx12cuw&list=RDTMAK5uy_kset8DisdE7LSD4TNjEVvrKRTmG7a56sY
+chips:
+  Rating: 78
+  consumed: true
 ---
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=aBOJzx12cuw" target="_blank">
 	<div class="rich-link-image-container">
@@ -18,4 +21,3 @@ source: https://music.youtube.com/watch?v=aBOJzx12cuw&list=RDTMAK5uy_kset8DisdE7
 		</p>
 	</div>
 </a></div>
-rating:: 78
