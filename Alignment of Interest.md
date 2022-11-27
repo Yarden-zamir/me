@@ -2,7 +2,7 @@
 aliases: [Alignment of Interest, ]
 tags: [dates/2021/11/17, writeups]
 ---
- ↖️ [[The Sovereign Mind|The Sovereign Mind]]
+↖️ [[The Sovereign Mind|The Sovereign Mind]]
 ---
 Alignment of interest is something that, I would argue, we don't take into account enough in our everyday lives.
 It is the effect when two or more sides have interests that align, thus making the pursuit of said interests easier. 
