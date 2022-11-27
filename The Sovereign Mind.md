@@ -11,7 +11,7 @@ I am writing not to teach or expose something new, but to assemble language and 
 ## Core
 ### [[Human biological evolution vs societal evolution]]
 ### [[Why we should have control over our minds]]
-### [[Action Potential model]]
+### [[Action Potential Model]]
 ### [[Alignment of Interest]]
 ### [[Mans Violent Nature]]
 ### [[Problematic elasticity]]
