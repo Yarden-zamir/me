@@ -7,7 +7,7 @@ kindle-sync:
   lastAnnotatedDate: '2019-08-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71wYcaVjltS._SY160.jpg'
   highlightsCount: 4
-tags: media/books 
+tags: [media/books]
 ---
 # Catch-22
 ## Metadata

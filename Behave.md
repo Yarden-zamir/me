@@ -1,5 +1,5 @@
 ---
-tags: media/books 
+tags: [media/books]
 kindle-sync:
   bookId: '32185'
   title: 'Behave: The Biology of Humans at Our Best and Worst'

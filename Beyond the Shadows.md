@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2020-09-12
  bookImageUrl: "https://m.media-amazon.com/images/I/818mosqlAlL._SY160.jpg"
  highlightsCount: 3
-tags: media/books
+tags: [media/books]
 Consumed: true
 ---
 # Beyond the Shadows

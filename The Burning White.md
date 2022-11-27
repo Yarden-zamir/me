@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2021-12-28
  bookImageUrl: "https://m.media-amazon.com/images/I/91Zj5gChzLL._SY160.jpg"
  highlightsCount: 1
-tags: media/books
+tags: [media/books]
 Consumed: true
 ---
 # The Burning White

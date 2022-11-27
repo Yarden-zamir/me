@@ -7,7 +7,7 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91lMe9cT0qL._SY160.jpg'
   highlightsCount: 1
-tags: media/books 
+tags: [media/books]
 ---
 # Shogun
 ## Metadata

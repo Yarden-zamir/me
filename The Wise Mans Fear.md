@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2019-10-24
  bookImageUrl: "https://m.media-amazon.com/images/I/91gGjbr8xaL._SY160.jpg"
  highlightsCount: 3
-tags: media/books
+tags: [media/books]
 Consumed: true
 Rating: 94
 ---

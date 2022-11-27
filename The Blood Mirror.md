@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2020-11-11
  bookImageUrl: "https://m.media-amazon.com/images/I/91jTqHjwoXL._SY160.jpg"
  highlightsCount: 1
-tags: media/books
+tags: [media/books]
 Consumed: true
 ---
 # The Blood Mirror

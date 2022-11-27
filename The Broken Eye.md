@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2021-11-13
  bookImageUrl: "https://m.media-amazon.com/images/I/91GyEM2g6nL._SY160.jpg"
  highlightsCount: 6
-tags: media/books
+tags: [media/books]
 Consumed: true
 ---
 # The Broken Eye

@@ -7,7 +7,7 @@ kindle-sync:
  lastAnnotatedDate: 2020-09-10
  bookImageUrl: "https://m.media-amazon.com/images/I/81T5R5w8E4L._SY160.jpg"
  highlightsCount: 3
-tags: media/books
+tags: [media/books]
 Consumed: true
 ---
 # The Way Of Shadows
