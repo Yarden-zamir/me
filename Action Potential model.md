@@ -2,9 +2,8 @@
 aliases: [Action Potential model, Action Potential, Why we do what we do]
 tags: [dates/2022/02/13/migration, writeups, ]
 ---
- - [l] [[The Sovereign Mind|The Sovereign Mind]]
+ ↖️ [[The Sovereign Mind|The Sovereign Mind]]
 ---
-
 `Action Potential = Precivied Value / Friction`
 
 # Why We Do What We Do - a Model
@@ -30,7 +29,7 @@ This could be wanting to learn a new language or it could be wanting not to eat 
 ## The Action's Attributes
 The easiest way we know to "motivate" ourselves is to modify the existing actions attributes. This is the classic approach
 
-### Perceived Value 
+### Perceived Value
 We can increase the perceived value of an action by using different actions to increase the **Action Potential**, we can do that by thinking how amazing it would be to preform such action and how many rewards we would reap afterwards, we can promise ourselves things, lie to ourselves, make the value proposition high which in turn makes us more likely to go though.
 
 ### Friction (or Perceived Difficulty, Price )

@@ -13,7 +13,7 @@ I will be using [[Obsidian.md]] to fill this role as it is reliable, fast, easy 
 - [>] Rescheduled/Forwarded
 - [?] Question
 - [!] Important
-- [l] Location - used to indicate context
+↖️ Location - used to indicate context
 - [x] Task
 - [ ] Task
 admonitions will use those with excerpts or stand alone
