@@ -13,7 +13,7 @@ The nature of [[Public by default]] means that most of the "content" here is unp
 # Some Random Links to Start Exploring
 Get a feel for what I want this sandbox to be like  
 [[Action Potential model]]  
-[[Shower Thought - how can we capitalize]]  
+[[Shower Thought How can we capitalize]]  
 [[I bought winrar]]  
 [[A reeds tale]]  
 [[Digital Mindfield Manifest]]  
