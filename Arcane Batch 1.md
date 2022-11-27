@@ -3,7 +3,7 @@ aliases: []
 tags: [dates/2022/02/13/migration, media/shows]
 chips:
   Rating: 91
-  consumed: true
+  Consumed: true
 ---
 
 

@@ -9,9 +9,7 @@ chips:
   Consumed: true
 ---
  
-
-# WHY do I pay [[Adobe]] 10K a YEAR!
 ## Links 
 https://www.youtube.com/watch?v=L9VysWRHPdI
 ## Comment:
-[[Linus Sabastian]] explains why, even though the amount they charge is outrages, they still use their products because they control the market, the have a huge [[monopolies|Monopoly]]
+[[Linus Sabastian]] explains why, even though the amount [[Adobe|they]]] charge is outrages, they still use their products because they control the market, the have a huge [[monopolies|Monopoly]]
