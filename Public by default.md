@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [dates/2022/11/20, ]
+tags: [dates/2022/11/20, writeups ]
 ---
 
 > [!quote]
