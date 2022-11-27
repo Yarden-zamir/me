@@ -1,4 +1,5 @@
 ---
+parents 
 aliases: [Action Potential model, Action Potential, Why we do what we do]
 tags: [dates/2022/02/13/migration, writeups, ]
 ---
