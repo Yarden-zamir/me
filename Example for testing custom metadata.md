@@ -9,3 +9,6 @@ blue_buttons:
 ---
 
 This page has some metadata that I want to convert to html elements
+
+<button class="button">I am a manually placed button</button>
+
