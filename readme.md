@@ -16,23 +16,22 @@ I have always wanted to write more than just for myself. This is my attempt to d
 The nature of [[Public by default]] means that most of the "content" here is unpolished ideas and tangents, that's alright
 
 # Some Random Links to Start Exploring
-Get a feel for what I want this sand[[Action Potentia[[Action Potential Model]]  
+Get a feel for what I want this sandbox  
+[[Action Potential Model]]  
 [[Shower Thought How can we capitalize]]  
 [[I bought winrar]]  
 [[A reeds tale]]  
 [[Digital Mindfield Manifest]]  
 [[Branch based writing]]
 
-# Open Source tho??
+# Open Source though??
 I think it would be cool to think, if already in a public way, also in an open one. [[Action Potential Model]]or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
 
 # Ok, but How?
-~~[MindStone](https://mindstone.tuancao.me/)~~  
-
-Using [obsidian-zola-plus](https://github.com/Yarden-zmr/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)
+Using [obsidian-zola-plus](https://github.com/Yarden-zmr/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) which uses Zola, [elasticlunr](http://weixsong.github.io) and Obsidian-export. I use github for content and history, netlify for hosting, giscuss for comments and some python scripts for content manipulation
 
 # What is in Here?
-Ideas, thoughts, write-ups, brainstorming
+Ideas, thoughts, write-ups, brainstorming  
 
 # What is Not in Here?
 Journals, people notes, other stuff I'm not brave enough to share yet
