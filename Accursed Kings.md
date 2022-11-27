@@ -1,10 +1,5 @@
 ---
 aliases: []
-tags: [media/books]
+tags: [dates/2022/11/27, media/books]
 ---
-# Accursed Kings
-## Links
-![[IMG_20220123_075242.jpg]]
-## Comment:
-Rating::
-Consumed:: falsed
+ 
