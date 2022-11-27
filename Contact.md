@@ -7,4 +7,4 @@ A type of freeform [[dance]] built around contact with other people
 
 Something like having a physical conversation with no words
 
-[[Getting to know someone physically before talking to them]]
+the effect of [[Getting to know someone physically before talking to them]] is interesting
