@@ -9,12 +9,13 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71qOKP4LHRL._SY160.jpg'
   highlightsCount: 10
 ---
-# 12 Rules for Life [[Jordan B. Peterson]]
+[[Jordan B. Peterson]]
+
 ## Metadata
 * Author: [Jordan B. Peterson](https://www.amazon.com/Jordan-B-Peterson/e/B001HMLIKQ/ref=dp_byline_cont_ebooks_1)
 * ASIN: B01FPGY5T0
 * ISBN: 0345816021
-* Reference: [[https://www.amazon.com/dp/B01FPGY5T0]]
+* Reference: https://www.amazon.com/dp/B01FPGY5T0
 * [Kindle link](kindle://book?action=open&asin=B01FPGY5T0)
 
 ## Highlights
