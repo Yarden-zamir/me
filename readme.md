@@ -30,8 +30,8 @@ I think it would be cool to think, if already in a public way, also in an open o
 
 # Ok, but How?
 Using [obsidian-zola-plus](https://github.com/Yarden-zmr/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) which uses Zola, [elasticlunr](http://weixsong.github.io) and Obsidian-export. I use github for content and history, netlify for hosting, giscuss for comments and some python scripts for content manipulation
-![[Pasted image 20221128190647.png]]
-![[diagram.svg]]
+![[Diagram.png]]
+
 # What is in Here?
 Ideas, thoughts, write-ups, brainstorming  
 
