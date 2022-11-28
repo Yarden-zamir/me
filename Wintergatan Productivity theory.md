@@ -1,23 +1,8 @@
 ---
 aliases: []
 tags: [dates/2022/11/25, ]
-source:: https://www.youtube.com/watch?v=eLUDauIxudM
+source: https://www.youtube.com/watch?v=eLUDauIxudM
 ---
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=eLUDauIxudM" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://i.ytimg.com/vi/eLUDauIxudM/maxresdefault.jpg')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">Learning How To Focus and Achieve My Goals</h1>
-		<p class="rich-link-card-description">
-		Laser Focus = Cyber ProgressToo Focused on MMX Progress to write a longer description :)Good Luck with everything you are doing!/ MartinLearning How To Focus...
-		</p>
-		<p class="rich-link-href">
-		https://www.youtube.com/watch?v=eLUDauIxudM
-		</p>
-	</div>
-</a></div>
 How to achieve goals: Goal setting theory
 
 # Setting a Goal Can Help a Lot
