@@ -44,6 +44,7 @@ ROOT_SECTION_NAME = "me"
 COMMENTS_GISCUSS = "y"
 EDIT_PAGE = "y"
 EDIT_PAGE_BUTTON_TEXT = "Change my mind!"
+LOCAL_GRAPH = "y"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
