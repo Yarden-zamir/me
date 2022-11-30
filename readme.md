@@ -16,7 +16,7 @@ I have always wanted to write more than just for myself. This is my attempt to d
 The nature of [[Public by default]] means that most of the "content" here is unpolished ideas and tangents, that's alright
 
 # Some Random Links to Start Exploring
-Get a feel for what I want this sandbox  
+Get a feel for what I want this sandbox to feel like
 [[Action Potential Model]]  
 [[Shower Thought How can we capitalize]]  
 [[I bought winrar]]  
