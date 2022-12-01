@@ -57,7 +57,7 @@ document view:
     inner view: document view #this means that any node that gets displayed will display this view within itself
 ```
 
-![[document view 1.svg]]
+![[document view.svg]]
 
 ```yaml
 document graph view:
