@@ -4,10 +4,10 @@ tags: [dates/2022/11/27, ]
 chips:
   My Github: https://github.com/Yarden-zmr
   This Repo: https://github.com/Yarden-zmr/me
-  https://img.shields.io/github/commit-activity/w/yarden-zmr/me?label=Content%20commits: https://github.com/Yarden-zmr/me
+  https://img.shields.io/github/commit-activity/w/yarden-zmr/me?label=Content%20Commits: https://github.com/Yarden-zmr/me
   https://img.shields.io/website?url=https%3A%2F%2Fyarden-zamir.com: https://www.yarden-zamir.com/
-  https://img.shields.io/github/issues/yarden-zmr/me?label=content%20issues: https://github.com/Yarden-zmr/me/issues
-  https://img.shields.io/github/issues/yarden-zmr/obsidian-zola-plus?label=site%20issues: https://github.com/Yarden-zmr/obsidian-zola-plus/issues
+  https://img.shields.io/github/issues/yarden-zmr/me?label=Content%20Issues: https://github.com/Yarden-zmr/me/issues
+  https://img.shields.io/github/issues/yarden-zmr/obsidian-zola-plus?label=Site%20Issues: https://github.com/Yarden-zmr/obsidian-zola-plus/issues
 ---
 
 # What Are You Doing Yarden? What is This Place?
