@@ -2,8 +2,8 @@
 aliases: []
 tags: [dates/2022/12/01, seeds/writing ]
 ---
- 
-database
+
+# Database
 ```yaml
 is:
 person:
@@ -39,9 +39,7 @@ bread:
   parent: shoping list for today
 ```
 
-
-
-
+# Views
 ```yaml 
 document view:
   title: $element
