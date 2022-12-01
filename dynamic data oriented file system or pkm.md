@@ -55,9 +55,8 @@ document view:
       vertical:
         gap: 0
     inner view: document view #this means that any node that gets displayed will display this view within itself
-```
-<img width="461" alt="Screen Shot 2022-09-25 at 16 40 49" src="https://user-images.githubusercontent.com/8178413/192146694-cc5744b0-b83c-42df-88ac-29c6c5b0f3da.png">
-
+![[document view.svg]]```
+![[document view 1.svg]]
 ```yaml
 document graph view:
   title: $element
