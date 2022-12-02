@@ -73,14 +73,15 @@ GRAPH_OPTIONS = """
         	interaction: {
         		hover: true,
 				dragView: false,
-				hideEdgesOnDrag: true,
-				hideEdgesOnZoom: false,
-				hideNodesOnDrag: false,
+				multiselect: true,
+				navigationButtons: true,
+
+
         	},
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "repulsion",
+        		solver: "barnesHut",
         	},
         }
         """
