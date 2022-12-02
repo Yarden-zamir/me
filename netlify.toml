@@ -72,16 +72,12 @@ GRAPH_OPTIONS = """
         	},
         	interaction: {
         		hover: true,
-				dragView: false,
 				multiselect: true,
         	},
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "forceAtlas2Based",
-				forceAtlas2Based: {
-					avoidOverlap: 1
-				},
+        		solver: "repulsion",
         	},
 			layout: {
 				randomSeed: 123, 
