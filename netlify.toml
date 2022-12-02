@@ -81,7 +81,7 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "barnesHut",
+        		solver: "forceAtlas2Based",
         	},
         }
         """
