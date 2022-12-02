@@ -9,7 +9,8 @@ chips:
   https://img.shields.io/github/issues/yarden-zmr/me?label=Content%20Issues: https://github.com/Yarden-zmr/me/issues
   https://img.shields.io/github/issues/yarden-zmr/obsidian-zola-plus?label=Site%20Issues: https://github.com/Yarden-zmr/obsidian-zola-plus/issues
 ---
-
+# What? Who is Yarden?
+> [[Yarden Zamir|Yarden]]
 # What Are You Doing Yarden? What is This Place?
 I have always wanted to write more than just for myself. This is my attempt to do so by making my writing [[Public by default]], thus putting the friction point on hiding rather than sharing and increasing the [[Action Potential Model|Action Potential]] of my desired goal
 
