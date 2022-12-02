@@ -10,7 +10,7 @@ tags: [dates/2022/02/13/migration, writeups, ]
 `Action Potential = Precivied Value / Friction`
 
 # Why We Do What We Do - a Model
-At any given time, for any given action, we calculate...
+At any given moment, day, minute or millisecond, we calculate unknowingly (most of the time) what out next step, micro or macro is going to be. Our brains keep a score of the "potential" for each given action, then goes with one from the top of the list.
 
 # Functional Use - How to Do Things
 Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding such activities `Action Potential = Perceived Value / Friction` and take it apart step by step, then work to reinstate our mindset with this as a principle
