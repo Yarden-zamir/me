@@ -82,6 +82,9 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	physics: {
         		solver: "forceAtlas2Based",
+				    forceAtlas2Based: {
+						avoidOverlap: 1
+					},
         	},
         }
         """
