@@ -74,9 +74,6 @@ GRAPH_OPTIONS = """
         		hover: true,
 				dragView: false,
 				multiselect: true,
-				navigationButtons: true,
-
-
         	},
         	height: "100%",
         	width: "100%",
@@ -87,8 +84,7 @@ GRAPH_OPTIONS = """
 				},
         	},
 			layout: {
-				randomSeed: potato, 
-    			improvedLayout: false,
-			}
+				randomSeed: 123, 
+			},
         }
         """
