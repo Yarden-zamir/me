@@ -12,6 +12,7 @@ chips:
   Rating: 82
   consumed: true
 ---
+
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)
 * ASIN: B00FQZWRVE
@@ -20,7 +21,6 @@ chips:
 * [Kindle link](kindle://book?action=open&asin=B00FQZWRVE)
 
 ## Highlights
-
 ---
 not friendship, not honor, not dignity, not friendship, — location: [7770](kindle://book?action=open&asin=B00FQZWRVE&location=7770) ^ref-32350
 

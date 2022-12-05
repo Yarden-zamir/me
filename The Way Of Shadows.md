@@ -12,6 +12,7 @@ chips:
   Rating: 83
   Consumed: true
 ---
+
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)
 * ASIN: B002TXZRPE

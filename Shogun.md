@@ -9,7 +9,9 @@ kindle-sync:
   highlightsCount: 1
 tags: [media/books]
 ---
+
 # Shogun
+
 ## Metadata
 * Author: [James Clavell](https://www.amazon.com/James-Clavell/e/B000APVE7S/ref=dp_byline_cont_ebooks_1)
 * ASIN: B00D3J2QKC

@@ -10,7 +10,9 @@ kindle-sync:
 tags: [media/books]
 Consumed: true
 ---
+
 # The Blood Mirror
+
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)
 * ASIN: B01FG1HHDU

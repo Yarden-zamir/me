@@ -20,17 +20,17 @@ I don't want to keep doing [[Keto]] even though I'm convinced it gave me a lot a
 - I will start [[Yoga]]
 
 ## Writing
-Using [[Workflow implementation using Digital Mindfield|My digital mindfield]] I will push myself to develop a healthy writing habit
+Using [[Workflow implementation using Digital Mindfield|My digital mindfield]] I will push myself to develop a healthy writing habit  
 I also want to do write-ups so many start a [[Blog]]
 
 ## Meditation
-Adopt some form of [[Meditation]] as it's universally regarded as a really **useful tool**.
+Adopt some form of [[Meditation]] as it's universally regarded as a really **useful tool**.  
 protocols
 
 ## Sleep
-Sleep no more than 8 hours, no less than 7.
+Sleep no more than 8 hours, no less than 7.  
 Try to go to sleep at 22:00 / 22:30 and wake up at around 6:00
 
 ## Listen
-Make sure to listen to myself, the rules here are **malleable**
+Make sure to listen to myself, the rules here are **malleable**  
 I'm not supposed to suffer, I'm supposed to **develop**

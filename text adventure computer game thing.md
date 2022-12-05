@@ -15,17 +15,17 @@ You only control what the main character does in the computer
 
 ## Elements
 - unreliable narrator 
-- time based
-]
+- time based  
+]  
 Gameplay loop :: [
 - day job
 - uncovering the story
 - beeing hacked
-- hacking
+- hacking  
 ]
 
 work the player Hass to do:
 - Has to be no more than ten mins
 - Has to be simple enough but still challenging
 - Ideas
-	-  Sort all of the people of ages under 18 that have Rating: under a specific amount
+	- Sort all of the people of ages under 18 that have Rating: under a specific amount

@@ -2,16 +2,19 @@
 aliases: [Obsidian workflow, workflow v5]
 tags: [dates/2022/02/13/migration, protocols]
 ---
-# A workflow for life in a digital age
+
+# A Workflow for Life in a Digital Age
 This is a manifest for the workflow I've constructed for my personal digital and organic life. It helps me stay on top of the things I consume, create, observe, help me to do more of each of those three things and better.
-## Tools 
+
+## Tools
 To implement such a system there needs to be an interface for which tools and types of tools needed. This is how I classify those.
+
 ### Launchers
-In our digital lives we have many forms of launchers, the core idea is a place where you can easily launch a tool to aid in a specific need fast. 
+In our digital lives we have many forms of launchers, the core idea is a place where you can easily launch a tool to aid in a specific need fast.  
 examples:
 - Desktop
 	- 2 dimensional
-	-  Large, many shortcuts
+	- Large, many shortcuts
 	- Can be used for temporary storage
 	- Can be used as work area
 	- Folders
@@ -32,8 +35,10 @@ examples:
 	- Easy to add to
 - Browser new tab page
 - Phone launcher (main screen)
-### Processing canvas
+
+### Processing Canvas
 The core of the workflow, this is where ideas develop and memories stored, where views are solidified and liquified, and where the past present and future are evaluated. 
+
 #### Specifications
 - Need to be able to write and consume information in a comfortable accessible way
 - Need to be resilient and none-fragile, future proof
@@ -44,12 +49,15 @@ The core of the workflow, this is where ideas develop and memories stored, where
 	- [!] Never let optimization override the process itself though, again, the most important thing is to process, write and explore at the end of the day. 
 
 ### Calendar
-### Todo list
+
+### Todo List
 A short list
-## Tools that you **shouldn't** need
+
+## Tools That You **shouldn't** Need
+
 #### Inbox
-Most digital workflows involve the use of an inbox of some sort where you put all of the unfiltered input and then at a set time you go though and slowly chip away at the list to funnel the entries into their respective spaces and tools.
-Anyone who used this flow before knows that it doesn't always work. You get the joy of collecting many cool shiny things from the side of the road, yes, but turning those into actionable, useful, insightful information is where this route may be lacking. The friction for slotting things into the inbox is usually very low, the reward is quite high (see [[Action Potential Model|Action Potential]] for why that matters), you feel productive when you shove the box full of things. 
+Most digital workflows involve the use of an inbox of some sort where you put all of the unfiltered input and then at a set time you go though and slowly chip away at the list to funnel the entries into their respective spaces and tools.  
+Anyone who used this flow before knows that it doesn't always work. You get the joy of collecting many cool shiny things from the side of the road, yes, but turning those into actionable, useful, insightful information is where this route may be lacking. The friction for slotting things into the inbox is usually very low, the reward is quite high (see [[Action Potential Model|Action Potential]] for why that matters), you feel productive when you shove the box full of things.  
 On the other hand taking things and processing them may be more complicated, and it is almost always the case that it is at least slightly harder than adding to the list, then, naturally that means the inbox will grow faster than it shrinks, leading to an infinite backlog.
 
 ##### Alternative

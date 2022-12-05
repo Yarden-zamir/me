@@ -8,7 +8,7 @@ Random idea for programming language - pipes
 # Core Ideas
 
 ## Pipes
-the last block in a pipe is the returned value
+the last block in a pipe is the returned value  
 pipes are evaluated from left to right in order
 
 ## Block
@@ -24,9 +24,9 @@ Because blocks are not awaited by default, ten lines of code means ten 'pipes' t
 * Any variable that has brackets in it's definition is treated as a lazy variable / function.
 * input brackets for each argument names are plain text, can use spaces and symbols (except for some special ones like brackets), arguments can be anywhere in the function's signature
 
-if there are missing arguments, attempt to use the last pipe value (`it`) by de-structuring it and mapping to the arguments in order. Meaning that `1 | increment | print` will print `2` and `[1,69] | add | print` will print 70
-`[1,2] | add`
-`[1,2] | add it.first it.second`
+if there are missing arguments, attempt to use the last pipe value (`it`) by de-structuring it and mapping to the arguments in order. Meaning that `1 | increment | print` will print `2` and `[1,69] | add | print` will print 70  
+`[1,2] | add`  
+`[1,2] | add it.first it.second`  
 `[1,2] | add it[0] it[1]`
 
 ### Examples
@@ -109,7 +109,7 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 list = [1, 2, 3, 4, 5]
 
 # Add All Items in List Sequential Piping
-sum = 0
+sum = 0  
 list -/ sum += it
 
 # Add All Items in List Smart Piping
@@ -129,11 +129,11 @@ list -/ print it
 ```
 
 # Print All Item That Are Even in a List Smart Piping
-list = [1, 2, 3, 4, 5]
+list = [1, 2, 3, 4, 5]  
 list -| it % 2 == 0 ?|- print it# output [2, 4]     # prints a list of all even numbers
 list -| it % 2 == 0 ?| print it # output 2 4        # prints each even number when it's evaluated
 list -| it % 2 != 0 ?|  # if it is not even, pipe seal to stop flow
-it
+it  
 |- print it
 
 ---
@@ -141,7 +141,7 @@ it
 ---
 
 # Lets Assume List is a Bunch of Elements with Their Own Index (element : Any, Index : Int) Tuples
-list = [1, 2, 3, 4, 5]
+list = [1, 2, 3, 4, 5]  
 first item = list[0]
 
 # Reverse List
@@ -159,11 +159,11 @@ reverse (list : List) = {
     return reversed
 }
 ---
-core language ideas:
-    parrallism
-        * all computations are dispatched immidiatly.
-        * when using a variable, it's value is awaited
-    variables and functions
-        * instead of functions, a variable can have inputs, a variable with inputs will only compute when called
+core language ideas:  
+    parrallism  
+        * all computations are dispatched immidiatly.  
+        * when using a variable, it's value is awaited  
+    variables and functions  
+        * instead of functions, a variable can have inputs, a variable with inputs will only compute when called  
         * spaces are allowed in names
     

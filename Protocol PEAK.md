@@ -4,6 +4,7 @@ tags: [dates/2021/11/9 , protocols]
 ---
 Working to make a pattern of living that's sustainable and pushes me forward. based on my [[Protocol]] system.
  
+
 # Projects
 - Working on the things I care about
 	- [[Create.run]]
@@ -20,8 +21,8 @@ Even though I want to code/consume media all day, I should start interacting mor
 Adopt some form of [[Meditation]] as it's universally regarded as a really **useful tool**.
 
 # Nutrition
-Trying out [[Keto]] again in some form or another because last time I was under it was a really good time overall
-[[Cooking]] for myself
+Trying out [[Keto]] again in some form or another because last time I was under it was a really good time overall  
+[[Cooking]] for myself  
 	- And others
 
 # Physical Activity
@@ -38,13 +39,15 @@ Trying out [[Keto]] again in some form or another because last time I was under 
 Read and **take notes on anything**, preferably a book
 
 # Writing
-Using [[Workflow v4]]
-Pushing myself to **reflect** and plan my life
-**Getting a grip** of what is going on to me and around me
+Using [[Workflow v4]]  
+Pushing myself to **reflect** and plan my life  
+**Getting a grip** of what is going on to me and around me  
 I want to write one writeup per week, up to a point that it can be publicly posted
+
 # Sleep
-Sleep no more than 8 hours, no less than 7.
+Sleep no more than 8 hours, no less than 7.  
 Try to go to sleep at 22:00 / 22:30 and wake up at around 6:00
+
 # Listen
-Make sure to listen to myself, the rules here are **malleable**
+Make sure to listen to myself, the rules here are **malleable**  
 I'm not supposed to suffer, I'm supposed to **develop**

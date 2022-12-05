@@ -9,7 +9,9 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/819ZWxY0d-L._SY160.jpg'
   highlightsCount: 3
 ---
+
 # Behave
+
 ## Metadata
 * Author: [Robert M. Sapolsky](https://www.amazon.com/Robert-M-Sapolsky/e/B000APOCFE/ref=dp_byline_cont_ebooks_1)
 * ASIN: B01IAUGC5S

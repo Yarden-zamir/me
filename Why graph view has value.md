@@ -8,4 +8,3 @@ To start, I do agree that the use of general view is indeed no longer useful, bu
 
 ### Local Graph
 The local graph, ie minimap shows current connections for the current note
-

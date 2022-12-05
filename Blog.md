@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [dates/2022/02/14, dates/2022/10/18]
+tags: [dates/2022/02/14, dates/2022/10/18, dates/2022/11/20]
 ---
 I want to write a blog of some sort at some point, technical and philosophical.
 
