@@ -2,7 +2,7 @@
 aliases: [Me, Myself, I, Jordan, Yarden]
 tags: [dates/2022/02/13/migration, entities/people]
 chips: 
-  linkedin: https://www.linkedin.com/in/yarden-zamir-392783b5/
+  linkedin: https://www.linkedin.com/in/yarden-zamir-392783b5
   My Github: https://github.com/Yarden-zamir
 ---
 
