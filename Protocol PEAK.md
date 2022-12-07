@@ -12,7 +12,7 @@ Working to make a pattern of living that's sustainable and pushes me forward. ba
 	- [[Workflow v4]]
 	- etc...
 - Dedicating time, but **not too much time!**
-- Making sure to take notes and document as much as possible, whether it be in [[Github]] or [[Obsidian.md]] 
+- Making sure to take notes and document as much as possible, whether it be in [[Secret/github]] or [[Obsidian.md]] 
 
 # Social
 Even though I want to code/consume media all day, I should start interacting more as it **makes me feel better** almost always

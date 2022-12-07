@@ -18,7 +18,7 @@ I am writing not to teach or expose something new, but to assemble language and 
 
 ### [[Alignment of Interest]]
 
-### [[Mans Violent Nature]]
+### [[Secret/Mans Violent Nature]]
 
 ### [[Problematic elasticity]]
 
