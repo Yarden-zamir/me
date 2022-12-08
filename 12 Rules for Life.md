@@ -8,6 +8,7 @@ kindle-sync:
   lastAnnotatedDate: '2020-09-02'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71qOKP4LHRL._SY160.jpg'
   highlightsCount: 10
+Source: https://www.goodreads.com/book/show/30257963-12-rules-for-life
 ---
 [[Jordan B. Peterson]]
 
