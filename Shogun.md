@@ -8,9 +8,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91lMe9cT0qL._SY160.jpg'
   highlightsCount: 1
 tags: [media/books]
+Source: https://www.goodreads.com/book/show/52382796-sh-gun
 ---
-
-# Shogun
 
 ## Metadata
 * Author: [James Clavell](https://www.amazon.com/James-Clavell/e/B000APVE7S/ref=dp_byline_cont_ebooks_1)

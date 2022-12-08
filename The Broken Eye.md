@@ -9,9 +9,8 @@ kindle-sync:
  highlightsCount: 6
 tags: [media/books]
 Consumed: true
+Source: https://www.goodreads.com/book/show/12652457-the-broken-eye
 ---
-
-# The Broken Eye
 
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)

@@ -8,9 +8,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71wYcaVjltS._SY160.jpg'
   highlightsCount: 4
 tags: [media/books]
+Source: https://www.goodreads.com/book/show/168668.Catch_22
 ---
-
-# Catch-22
 
 ## Metadata
 * Author: [Joseph Heller and Howard Jacobson](https://www.amazon.com/Joseph-Heller/e/B000APVA6I/ref=dp_byline_cont_ebooks_1)

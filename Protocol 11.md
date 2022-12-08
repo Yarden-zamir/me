@@ -3,7 +3,7 @@ aliases: []
 tags: [dates/2022/02/13/migration, protocols ]
 ---
 
-# Protocol 11 for [[Corona]] Isolation with [[Noa Levi]]
+# Protocol 11 for [[Corona]] Isolation
 
 ### Make Good Food
 - follow [Nutrition](https://www.remnote.io/doc/sFief6oHh5dbg98rz) research and stay low carbs
@@ -25,8 +25,6 @@ tags: [dates/2022/02/13/migration, protocols ]
 ### Clean
 - Leave the workspace clean at the end of the day
 
-### Drink Water - [[Noa Levi]]
-- At least one bottle a day
 
 ### Write
 

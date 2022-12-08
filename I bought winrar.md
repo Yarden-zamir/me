@@ -1,9 +1,8 @@
 ---
 aliases: []
 tags: [dates/2022/11/03, seeds/writing/writeups ]
+Source: https://www.win-rar.com
 ---
-[[Winrar]]
-
 Wtf? why? let me tell you
 
 So, not too long ago I did a [[Computer reset|full computer reset]], something I do every year or three, all was well and good until I decided to download a [[Winrar]] alternative, the reasons behind it vary from not wanting to bother downloading a cracked version because I haven't set up [[Jackett]] yet, not wanting to be stuck with popups for a while (until I get annoyed) and of course, part of the main reason for a [[Computer reset|reset]] in the first place, trying some new stuff.  

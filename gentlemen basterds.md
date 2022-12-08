@@ -4,6 +4,7 @@ tags: [dates/2022/02/13/migration, ]
 chips:
   Rating: 60
   Consumed: partly
+Source: https://www.goodreads.com/series/43531-gentleman-bastard
 ---
 
 ## Comment:

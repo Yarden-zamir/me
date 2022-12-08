@@ -11,6 +11,7 @@ tags: [media/books]
 chips:
   Rating: 83
   Consumed: true
+Source: https://www.goodreads.com/book/show/3227063-the-way-of-shadows
 ---
 
 ## Metadata

@@ -9,9 +9,8 @@ kindle-sync:
  highlightsCount: 1
 tags: [media/books]
 Consumed: true
+Source: https://www.goodreads.com/book/show/30169100-the-burning-white
 ---
-
-# The Burning White
 
 ## Metadata
 * Author: [Brent Weeks](https://www.amazon.com/Brent-Weeks/e/B004N1S4QY/ref=dp_byline_cont_ebooks_1)

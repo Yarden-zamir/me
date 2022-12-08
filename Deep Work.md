@@ -8,9 +8,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/813Vz2vD23L._SY160.jpg'
   highlightsCount: 33
 tags: [media/books]
+Source: https://www.goodreads.com/book/show/25744928-deep-work
 ---
-
-# Deep Work
 
 ## Metadata
 * Author: [Cal Newport](https://www.amazon.com/Cal-Newport/e/B001IGNR0U/ref=dp_byline_cont_ebooks_1)

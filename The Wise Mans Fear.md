@@ -10,9 +10,9 @@ kindle-sync:
 tags: [media/books]
 Consumed: true
 Rating: 94
+Source: https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear
 ---
-
-# The Wise Mans Fear [[Patrick Rothfuss]]
+ [[Patrick Rothfuss]]
 
 ## Metadata
 * Author: [Patrick Rothfuss](https://www.amazon.com/Patrick-Rothfuss/e/B001DAHXZQ/ref=dp_byline_cont_ebooks_1)
