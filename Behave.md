@@ -8,9 +8,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-08-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/819ZWxY0d-L._SY160.jpg'
   highlightsCount: 3
+Source: https://www.goodreads.com/book/show/31170723-behave
 ---
-
-# Behave
 
 ## Metadata
 * Author: [Robert M. Sapolsky](https://www.amazon.com/Robert-M-Sapolsky/e/B000APOCFE/ref=dp_byline_cont_ebooks_1)
