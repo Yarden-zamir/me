@@ -15,7 +15,7 @@ The most common situation that makes us think of this concept is our interaction
 - [I] This is a system, an economical system that is constructed external to us and we relay on it. We can construct similar systems ourselves (and we do)
 
 ### People You Care About
-We don't always make this "tit for tat" so directly on the surface though, a good example of that is people that we love, friends, family members, etc. We are a lot less likely to expect payment from a friend when we expend energy to help them pursue an interest of theirs then we are to help a random stranger with the same thing. But of course, we **want** to help our loved one s, it is in our interest. A mother will go to immense lengths to help her kids achieve their interests because she really wants to do so, it is in her interests.
+We don't always make this "tit for tat" so directly on the surface though, a good example of that is people that we love, friends, family members, etc. We are a lot less likely to expect payment from a friend when we expen d energy to help them pursue an interest of theirs then we are to help a random stranger with the same thing. But of course, we **want** to help our loved one s, it is in our interest. A mother will go to immense lengths to help her kids achieve their interests because she really wants to do so, it is in her interests.
  - [I] **Interest is not equal to Perceived Interest** - When we help someone with their interest it's not always their actual interests or even communicated interests but instead **inferred interest** the thing we think they need.  
 ^55353a
 
