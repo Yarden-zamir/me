@@ -8,9 +8,9 @@ kindle-sync:
  bookImageUrl: "https://m.media-amazon.com/images/I/818mosqlAlL._SY160.jpg"
  highlightsCount: 3
 tags: [media/books]
-chips:
-  Rating: 82
-  consumed: true
+Rating: 82
+consumed: true
+Source: https://www.goodreads.com/book/show/3754026-beyond-the-shadows
 ---
 
 ## Metadata
