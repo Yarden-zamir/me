@@ -45,6 +45,7 @@ add (number :Number) (another number :Number) = {
 
 # usage:
 add (5) (64)
+[5,64] | add
 ```
 ```pipes
 sleep (seconds : Number) = thread::sleep(seconds * 1000)
@@ -73,7 +74,7 @@ y = 2
 z = x + y
 something = sleep 5 | z + 1
 something |
-print it |
+print |
 print 1 |
 print 2 |
 print 3
@@ -89,6 +90,8 @@ as it is implied. the output if the beginning of the pipe (5) is passed to the n
 
 ```pipes
 after (seconds : Number) do (something : Block) = sleep seconds | something
+
+
 generate number after (seconds : Number) = after (seconds) do {random::number}
 ```
 
@@ -98,19 +101,19 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 - -| is a pipe split operator, applicable when 'it' is iterable, will create a pipe for each item in 'it'. Additionally to it, it will pass 'previous' and 'next' variables that will await if used
 - ?| is a pipe filter operator, pops the current value of the pipe, if it is true, it will continue to the next pipe with the new (old) pipe value / it. so `['red', 'green'] -| it.length >3 ?| print` will print `green`
 - -/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
-- -\ ordered reversed split operator
+- -\\ ordered reversed split operator
 - |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
 - ; is a pipe seal # maybe not needed
 ---
 * `pipe[0]` is the current value of the pipe
 * `it` is a pointer for `pipe[0]`
-- `pipe` is the current pipe stack
+- `pipe` is the current pipe stack - first in last out
 ---
 list = [1, 2, 3, 4, 5]
 
 # Add All Items in List Sequential Piping
 sum = 0  
-list -/ sum += it
+list -/ sum += it 
 
 # Add All Items in List Smart Piping
 ```pipes
@@ -128,13 +131,25 @@ list -| print it
 list -/ print it
 ```
 
+
+> [!question] Do I need square brackets?  
+> Technically having the commas may be enough for the compiler / interpreter to figure it out
+
 # Print All Item That Are Even in a List Smart Piping
+```pipes
 list = [1, 2, 3, 4, 5]  
-list -| it % 2 == 0 ?|- print it# output [2, 4]     # prints a list of all even numbers
-list -| it % 2 == 0 ?| print it # output 2 4        # prints each even number when it's evaluated
-list -| it % 2 != 0 ?|  # if it is not even, pipe seal to stop flow
-it  
-|- print it
+list -| it % 2 == 0 ?|- print it
+# output 
+# [2, 4]
+
+
+# prints each even number when it's evaluated instead of the whole list when they are all ready
+list -| it % 2 == 0 ?| print it 
+# output 
+# 2
+# 4
+```
+
 
 ---
 [idea] what if instead of assigning variables with equals, we pip into names?
@@ -145,19 +160,15 @@ list = [1, 2, 3, 4, 5]
 first item = list[0]
 
 # Reverse List
-reversed list = []
-list -/ reversed list[size of (list) - index]= it
-enumerate list -| (index = size list - it.index, value = it.value) /- print
-index of (item : Tuple
-list | print it # prints [1 2 3 4 5]
-list -| print it # prints 1 2 3 4 5 (with new lines)
-reverse (list : List) = {
-    reversed = []
-    for (item : list) {
-        reversed = item | reversed
-    }
-    return reversed
-}
+reversed list = []  
+enumerate list -/ reversed list[size of (list) - index]= it  
+list -\ reversed list+=it |- print  
+enumerate list -| (index = size list - it.index, value = it.value) /- print  
+index of (item : Tuple  
+list | print it # prints [1 2 3 4 5]  
+list -/ print it # prints 1 2 3 4 5 (with new lines)  
+list -| print it # prints 3 4 1 2 5 (arbitrary order as they print when ready) (with new lines)
+
 ---
 core language ideas:  
     parrallism  
