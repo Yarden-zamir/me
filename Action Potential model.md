@@ -1,6 +1,6 @@
 ---
 parents: []
-aliases: [Action Potential, Why we do what we do]
+aliases: [Action Potential, Why we do what we do, Friction]
 tags: [dates/2022/02/13/migration, writeups, ]
 ---
 ↖️ [[The Sovereign Mind|The Sovereign Mind]]
