@@ -10,8 +10,8 @@ I already have [[Protocol PEAK.2]] which I generally follow, but after recently 
 > [!warning] Listen  
 > Make sure to listen to myself, the rules here are **malleable**	I'm not supposed to suffer, I'm supposed to **develop**
 
-# Core
-The thing this protocol will be focused on is [[human connection]], [[movement]] and most important, [[challenges]], specific ones -> I want to push myself to new special places
+# Focus
+The thing this protocol will be focused on is [[human connection]] and [[movement]] 
 
 ## Movement
 Do [[Contact]] as much as I have time to, there is much value in this new avenue for me, I am fascinated in a way that is slightly new to me
@@ -30,7 +30,7 @@ hooks:: |
 - [[#Challenges]] call someone random after work
 
 ## Nutrition
-As long as I make food about three times a week I think I'm in a good place for now.
+I cook dinner every day, but I also want to meal prep for work as at work I usually order or eat out
 
 Also, reducing [[Sugar]], I find myself eating more than I should when in the office, could be related to not cooking enough I guess? If I don't eat enough I want to supplement.
 
@@ -41,7 +41,7 @@ I tried a few times to construct a way to write consistently so far with around 
 ## Public Self
 I want to be more open to the outside world, in a passive way. Right now to interact with the world I need to go out of my way, I want the default to be more public and ready for interaction
 
-publishing my writing by default is one way to do it, even though it scares me, I think it should be done. This feeds with my [[friction]] theory
+[[Public by default|publishing my writing by default]] is one way to do it, even though it scares me, I think it should be done. This feeds with my [[Action Potential model|friction]] theory
 
 dancing in contact is also one way to do it  
 hooks:: |
@@ -62,8 +62,13 @@ hooks:: |
 	[[Media]]
 
 ## Challenges
-This is somewhat due to a conversation with [[Yonatan Rubin]] that also lead me to [[eating tomatoes|eat a tomato]] which leads me to want to attempt more things of the sort. I do think that the imposive nature of the tomato situation is the key here, so it's harder if it's a conststant slow challange, but I will try those as well anyway.  
+ This is somewhat due to a conversation with [[Yonatan Rubin]] that also lead me to [[eating tomatoes|eat a tomato]] which leads me to want to attempt more things of the sort. I do think that the implosive nature of the tomato situation is the key here, so it's harder if it's a constant slow challenge, but I will try those as well anyway.  
 [[Start using linux|Moving to linux]] - could be spur of the moment thing? I can do it with a friend around, it will cause me to be more aggressive about it, which should be good.  
-hooks:: |
+Hooks:: |
 - [[#Public self]] and [[#Writing]] would be an awesome challenge
 - [[#Media]] because of [[Media, socially]] challenge
+
+---
+
+
+ 
