@@ -1,5 +1,5 @@
 ---
-aliases: [Starting point]
+aliases: [Starting point, Digital Garden]
 tags: [dates/2022/11/27, ]
 chips:
   My Github: https://github.com/Yarden-zamir
@@ -9,6 +9,7 @@ chips:
   https://img.shields.io/github/issues/Yarden-zamir/me?label=Content%20Issues: https://github.com/Yarden-zamir/me/issues
   https://img.shields.io/github/issues/Yarden-zamir/obsidian-zola-plus?label=Site%20Issues: https://github.com/Yarden-zamir/obsidian-zola-plus/issues
 ---
+
 
 # Um.. Who is Yarden?
 > [[Yarden Zamir|Yarden]]
@@ -33,7 +34,7 @@ Get a feel for what I want this sandbox to feel like
 I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind"or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
 
 # Ok, but How?
-Using [obsidian-zola-plus](https://github.com/Yarden-zamir/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) which uses Zola, [elasticlunr](http://weixsong.github.io) and Obsidian-export. I use github for content and history, netlify for hosting, giscuss for comments and some python scripts for content manipulation  
+Using [obsidian-zola-plus](https://github.com/Yarden-zamir/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) which uses Zola, [elasticlunr](http://weixsong.github.io) and Obsidian-export. I use GitHub for content and history, Netlify for hosting, Giscuss for comments and some python scripts for content manipulation  
 ![[Diagram.png]]
 
 # What is in Here?
