@@ -4,7 +4,7 @@ tags: [dates/2022/11/27, ]
 chips:
   My Github: https://github.com/Yarden-zamir
   This Repo: https://github.com/Yarden-zamir/me
-  https://img.shields.io/github/commit-activity/w/yarden-zamir/me?label=Content%20Commits: https://github.com/Yarden-zamir/me
+  https://img.shields.io/github/commit-activity/w/yarden-zamir/me?label=Content%20Commits: https://github.com/Yarden-zamir/me/commits/main
   https://img.shields.io/website?url=https%3A%2F%2Fyarden-zamir.com: https://www.yarden-zamir.com/
   https://img.shields.io/github/issues/Yarden-zamir/me?label=Content%20Issues: https://github.com/Yarden-zamir/me/issues
   https://img.shields.io/github/issues/Yarden-zamir/obsidian-zola-plus?label=Site%20Issues: https://github.com/Yarden-zamir/obsidian-zola-plus/issues
