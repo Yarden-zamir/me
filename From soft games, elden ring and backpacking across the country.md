@@ -9,15 +9,16 @@ I've played souls games in the past, never finished, and never played online. Si
 # Israel Trail
 The past week I joined a friend in his journey to cross the country, Israel. Now, some context is that in Israel it is very customary for people to do so, it is something that is looked up to and a surprising amount of people take on the challenge for one reason or another (we even have a word for people on the trail). 
 
-# The two are not so different
+# The Two Are Not so Different
 What struck me after moving from thinking and playing Elden Ring in my free time into traveling all day was how similar I found those experiences for two main reasons: "gameplay loop" and "multi-player features".  
 
-## Gameplay loop
+## Gameplay Loop
 Getting up early, quick coffee, strap up and walk together for miles, meeting people along the trail, talking. Then after a really difficult climb you sit on the top of a mountain, satisfied and sip soup while birds chirp around. Then making food in the eavning together when we are all sore and tired and chill around the fire, then straight to the bag for a phisical-labor-enhanced-sleep.  
   
 This feeling I get when I overcome a difficult slope or finish a really hard day when the sun just starts to set is an awesome feeling, a feeling I'm very familiar with from playing Elden Ring. It is something that From Soft games do best, because their mountains are the highest, but always surmountable.
   
-# Multiplayer 
+
+## Multiplayer
 because the trail is a thing here, a part of the culture, we meet many people along it, be it others doing the whole trail, people doing parts of it or even families doing a short hike on the same path for a few hours.  
   
 The conversation between the other trail people is the coolest, we talk about the weight we carry, different techniques for making and carrying food, hard experiences we went though, etc. On our third day we camped at a place called Mount Yoram where the shelter was basically knee-high walls. The cold in that night, the extremely strong wind, all the people camped there (around 20 probably) clung to all their layers and hid in their sleeping bag which was also cold. That week the difficulty of that night was something that was always a part of the conversation when we met other people, we joked on it, compared "builds" (sleeping bag quality and layers) and laughed about it. It really reminded me that first week of Elden Ring where we were all fighting the first few bosses and the Reddit was full of memes about the difficulty, then the feeling of keenship when we overcame the boss (it really felt like I went through the fight together with the community and not alone) still now we laugh about it and compare strategies and builds.  
