@@ -6,7 +6,7 @@ chips:
   My Github: https://github.com/Yarden-zamir
 Source: https://github.com/Yarden-zamir
 ---
-
+![[1500x500.jpeg]]
 Hi, I'm a software engineer at Qlik, I like automation, philosophy, people, games and writing. 
 
 Here's a few **I**s 👇
@@ -17,3 +17,4 @@ Here's a few **I**s 👇
 - I will work very hard because of the above mentioned line
 - I am often vain, many times a hypocrite and sometimes -
 - I branch off very easily and often, creating a beautiful tree and many unfinished branches
+- I like pipes
