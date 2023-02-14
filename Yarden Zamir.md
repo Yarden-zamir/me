@@ -6,7 +6,6 @@ chips:
   My Github: https://github.com/Yarden-zamir
 Source: https://github.com/Yarden-zamir
 ---
-![[1500x500.jpeg]]
 Hi, I'm a software engineer at Qlik, I like automation, philosophy, people, games and writing. 
 
 Here's a few **I**s 👇
