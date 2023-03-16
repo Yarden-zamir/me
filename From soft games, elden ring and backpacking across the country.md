@@ -4,7 +4,7 @@ tags: [dates/2023/01/25, ]
 ---
 
 # Elden Ring
-I've played souls games in the past, never finished, and never played online. Since Elden Ring came out, I've been enthralled to the game, savoring every moment and enjoying it emensly. It very much surprised me how much I clicked with the multi-player, and when I say multi-player I don't mean the coop / invasions, although those are cool, I instead mean messages, blood stains, ghosts and, in a cool twist, Reddit. The feel of discovering this game together with the community, sharing tips, sharing trauma and experience, all of this was the true multi-player for me.  
+I've played souls games in the past, never finished, and never played online. Since Elden Ring came out, I've been enthralled to the game, savoring every moment and enjoying it immensely. It very much surprised me how much I clicked with the multi-player, and when I say multi-player I don't mean the coop / invasions, although those are cool, I instead mean messages, blood stains, ghosts and, in a cool twist, Reddit. The feel of discovering this game together with the community, sharing tips, sharing trauma and experience, all of this was the true multi-player for me.  
 
 # Israel Trail
 The past week I joined a friend in his journey to cross the country, Israel. Now, some context is that in Israel it is very customary for people to do so, it is something that is looked up to and a surprising amount of people take on the challenge for one reason or another (we even have a word for people on the trail). 
@@ -13,7 +13,7 @@ The past week I joined a friend in his journey to cross the country, Israel. Now
 What struck me after moving from thinking and playing Elden Ring in my free time into traveling all day was how similar I found those experiences for two main reasons: "gameplay loop" and "multi-player features".  
 
 ## Gameplay Loop
-Getting up early, quick coffee, strap up and walk together for miles, meeting people along the trail, talking. Then after a really difficult climb you sit on the top of a mountain, satisfied and sip soup while birds chirp around. Then making food in the eavning together when we are all sore and tired and chill around the fire, then straight to the bag for a phisical-labor-enhanced-sleep.  
+Getting up early, quick coffee, strap up and walk together for miles, meeting people along the trail, talking. Then after a really difficult climb you sit on the top of a mountain, satisfied and sip soup while birds chirp around. Then making food in the evening together when we are all sore and tired and chill around the fire, then straight to the bag for a phisical-labor-enhanced-sleep.  
   
 This feeling I get when I overcome a difficult slope or finish a really hard day when the sun just starts to set is an awesome feeling, a feeling I'm very familiar with from playing Elden Ring. It is something that From Soft games do best, because their mountains are the highest, but always surmountable.
   
