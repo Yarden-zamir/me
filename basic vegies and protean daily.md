@@ -43,3 +43,13 @@
   - one spoon is enough, usually, unless you want it to take over
 - parsley
   - if you have the time, a head of parsly brings this dish to new levels 
+![[food/IMG_20220414_214402.jpg]]
+![[food/IMG_20221104_201851.jpg]]
+![[food/IMG_20221231_130926.jpg]]
+![[food/IMG_20230115_214318.jpg]]
+![[food/IMG_20230115_214420.jpg]]
+![[food/IMG_20230115_215334.jpg]]
+![[food/IMG_20230222_220654.jpg]]
+![[food/IMG_20230224_183352.jpg]]
+![[food/IMG_20230317_204556.jpg]]
+![[food/IMG_20230325_232750.jpg]]
