@@ -49,6 +49,7 @@ This is the framework for my usual meal at the end of the day.
 - mushrooms
 	- can be added early to add their taste but lose their personality
 	- can be added at the end to get their texture and mouth feel
+# Pictures
 ![[food/IMG_20220414_214402.jpg]]
 ![[food/IMG_20221104_201851.jpg]]
 ![[food/IMG_20221231_130926.jpg]]
