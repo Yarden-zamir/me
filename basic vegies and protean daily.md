@@ -43,6 +43,8 @@
   - one spoon is enough, usually, unless you want it to take over
 - parsley
   - if you have the time, a head of parsly brings this dish to new levels 
+- garlic
+- cinnamon
 ![[food/IMG_20220414_214402.jpg]]
 ![[food/IMG_20221104_201851.jpg]]
 ![[food/IMG_20221231_130926.jpg]]
