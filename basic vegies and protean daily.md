@@ -1,3 +1,4 @@
+This is the framework for my usual meal at the end of the day.
 # Core
 - 400g to 1k (depending on their density) of veggies easily acquired as frozen bags you can get really cheaply
 - protean, either...
