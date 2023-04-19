@@ -1,22 +1,22 @@
 This is the framework for my usual meal at the end of the day.
 # Core
 - 400g to 1k (depending on their density) of veggies easily acquired as frozen bags you can get really cheaply
-- protean, either...
+- protein, either...
   - 300g to 400g of tofu
-    - 13% protean at least, some packages have less (meaning more water) so don't buy those
+    - 13% protein at least, some packages have less (meaning more water) so don't buy those
   - 350 to 450g of ground beef
-    - 14% to 20% protean depends on fat content
+    - 14% to 20% protein, depending on fat content
     - prefer 25% to 35% fat
   - 2 to 3 cans of tuna
-    - 25% protean (after removing water content)
-    - get the ones with water as the ones with oil come with cheap vegtible oil that's pretty bad, or olive oil that's expensive.
+    - 25% protein (after removing water content)
+    - get the ones with water as the ones with oil come with cheap vegetable oil that's pretty bad, or olive oil that's expensive.
       - drain the water and compensate with the olive oil 
 - a generous amount of olive oil
   - less if went with meat
 - spices
   - sweet paprica 
     - around 1 to 4 spoons
-    - not the spicy one even if you like spicy food, add spicy though other means, sweet paprica has very specific personality and spicy one has less of that
+    - not the spicy one even if you like spicy food, add spice through other means, sweet paprica has very specific personality and spicy one has less of that
   - curry 
     - 0.4 to 1 big spoons
     - get the big containers they will last you a while
@@ -29,17 +29,17 @@ This is the framework for my usual meal at the end of the day.
   - the smaller you cut them the faster they caramelise but the less onion texture you have (a good tradeoff usually)
 - carrots / sweet potatoes / even potatoes (although less tasty if added at the end)
   - cheap and easy to wash and cut so they are a great addition
-  - can be added at the begging and add sweetness to the dish
+  - can be added at the beginning and add sweetness to the dish
   - can be added at the end to add crunchy awesomeness to the dish
   - if you wash them well you don't need to peel them
 - green apple
   - add at the very end to create an awesome contrast with the spicy/salty to the sweet/sour. Trust me, it works 
 - coconut cream
   - add a much welcomed creaminess and helps bind the dish together
-  - I like to let it steam a bit of it's water content out to make it a tad more viscus 
+  - I like to let it steam a bit of it's water content out to make it a tad more viscuos 
   - at least 20% fat
   - you can get 250ml box per meal
-- penut butter
+- peanut butter
   - the natural one
   - one spoon is enough, usually, unless you want it to take over
 - parsley
@@ -48,7 +48,7 @@ This is the framework for my usual meal at the end of the day.
 - cinnamon
 - mushrooms
 	- can be added early to add their taste but lose their personality
-	- can be added at the end to get their texture and mouth feel
+	- can be added at the end to get their texture and mouth-feel
 # Pictures
 ![[food/IMG_20220414_214402.jpg]]
 ![[food/IMG_20221104_201851.jpg]]
