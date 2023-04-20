@@ -31,7 +31,7 @@ Get a feel for what I want this sandbox to feel like
 [[Branch based writing]]
 
 # Open Source though??
-I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind"or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
+I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind" or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
 
 # Ok, but How?
 Using [obsidian-zola-plus](https://github.com/Yarden-zamir/obsidian-zola-plus) which is my fork of [rockmanvnx6's fork](https://github.com/rockmanvnx6/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) which uses Zola, [elasticlunr](http://weixsong.github.io) and Obsidian-export. I use GitHub for content and history, Netlify for hosting, Giscuss for comments and some python scripts for content manipulation  
