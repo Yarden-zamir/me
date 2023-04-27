@@ -1,6 +1,7 @@
 This is the framework for my usual meal at the end of the day.
 ![[food/IMG_20230115_215334.jpg]]
- Core
+
+# Core
 - 400g to 1k (depending on their density) of veggies easily acquired as frozen bags you can get really cheaply
 - protein, either...
   - 300g to 400g of tofu
