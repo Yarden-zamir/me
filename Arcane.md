@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [dates/2022/02/13/migration, media/shows]
+tags: [dates/2022/02/13/migration, media/shows, seeds/worldbuilding]
 chips:
   Rating: 95
   Consumed: true
