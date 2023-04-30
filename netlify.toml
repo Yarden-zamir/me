@@ -4,6 +4,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/github/*"
+  to = "https://github.com/Yarden-zamir"
+  status = 301
+  force = true
+[[redirects]]
   from = "/git/*"
   to = "https://github.com/Yarden-zamir/me/:splat"
   status = 301
