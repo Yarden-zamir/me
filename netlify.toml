@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "*github.yarden-zamir.com/*"
+  to = "https://github.com/Yarden-zamir"
+  status = 301
+  force = false
+  query = {path = ":path"}
 [build]
 command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/Yarden-zamir/obsidian-zola-plus.git __site && __site/run.sh"
 publish = "public"
