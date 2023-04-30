@@ -3,6 +3,12 @@
   to = "https://github.com/Yarden-zamir"
   status = 301
   force = true
+[[redirects]]
+  from = "/git/*"
+  to = "https://github.com/Yarden-zamir/me/:splat"
+  status = 301
+  # Not sure if force is really necessary
+  force = true
 [build]
 command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/Yarden-zamir/obsidian-zola-plus.git __site && __site/run.sh"
 publish = "public"
