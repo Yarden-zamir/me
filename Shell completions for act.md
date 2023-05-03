@@ -75,3 +75,9 @@ Add to your .zshrc (before compinit)
 gh_source yarden-zamir/zsh-act-completion \
     "export FPATH=$FPATH:{}/zsh"
 ```
+
+9. Also added a section to the workflow to run the ci after commiting changes from generration 
+```yaml
+      - run: gh workflow run "CI - tag and release"
+        if: steps.commit.outputs.committed
+```
