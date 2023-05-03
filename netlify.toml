@@ -31,7 +31,7 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Yarden-zamir/me"
 # (Optional) Site title in navbar
-SITE_TITLE = "an open sourced 🧠"
+SITE_TITLE = "an open sourced mind🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
