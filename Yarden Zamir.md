@@ -4,6 +4,7 @@ tags: [dates/2022/02/13/migration, entities/people]
 chips: 
   linkedin: https://www.linkedin.com/in/yarden-zamir-392783b5
   My Github: https://github.com/Yarden-zamir
+  Dev Email: dev@Yarden-zamir.com
 Source: https://github.com/Yarden-zamir
 ---
 Hi, I'm a software engineer at Qlik, I like automation, philosophy, people, games and writing. 
