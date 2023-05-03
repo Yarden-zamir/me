@@ -60,4 +60,18 @@ Looking into it.
 
 7. This is so dumb, it was my token which was bad, creating a new one works. I will not admit how long it took me to figure that out.
 
-8. Done, assuming you are tapped in (`brew tap yarden-zamir/tap`) you can install with `brew install zsh-act-completion` and take not of the printed instructions from brew which may differ on different systems.
+8. Done, installing is as follows
+- brew 
+https://brew.sh/  
+Run
+```zsh
+brew tap yarden-zamir/tap
+brew install zsh-act-completion
+```
+- gh source
+https://github.com/Yarden-zamir/gh-source  
+Add to your .zshrc (before compinit)
+```zsh
+gh_source yarden-zamir/zsh-act-completion \
+    "export FPATH=$FPATH:{}/zsh"
+```
