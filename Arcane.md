@@ -5,8 +5,8 @@ chips:
   Rating: 95
   Consumed: true
 source: https://www.netflix.com/watch/81446667?trackId=14183263
+source: https://en.wikipedia.org/wiki/Arcane_(TV_series)
 ---
-- [Wikipedia](https://en.wikipedia.org/wiki/Arcane_(TV_series))
 
 The show is "crunchy", really well animated, really good sound, written pretty well and is overall awesome. 
 
