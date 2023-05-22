@@ -23,13 +23,14 @@ The nature of [[Public by default]] means that most of the "content" here is unp
 # Some Random Links to Start Exploring
 Get a feel for what I want this sandbox to feel like  
 [[Action Potential Model]]  
-[[Shower Thought How can we capitalize]]  
 [[I bought winrar]]  
 [[basic veggies and protein daily]]
 [[A reeds tale]]  
 [[Digital Mindfield Manifest]]  
 [[eating tomatoes|Yarden defeating his biggest enemy]]  
 [[Branch based writing]]
+[[Shower Thought How can we capitalize]]  
+[[Games are evil]]
 
 # Open Source though??
 I think it would be cool to think, if already in a public way, also in an open one. Anyone can "fork my mind" or change it with a pull request, I really like that idea. Anyone can raise issues with my thinking (or with me in general I guess, that would funny)
