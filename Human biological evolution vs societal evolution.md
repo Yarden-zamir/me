@@ -11,7 +11,7 @@ Which is a pretty good initial definition, aside from one element, the biologica
 
 
 # Distilled definition of evolution
-I may define evolution in an even more distilled manor, evolution is trial and error while keeping knowledge. Simple, yet sufficient for this thought experiment  
+I may define evolution in an even more distilled manor, evolution is trial and error with persistent memory. Simple, yet sufficient for this thought experiment  
 
 # In Depth Personal Definition of evolution
 Evolution as a concept is a conglomeration of two simple concepts, trial and error and keeping knowledge.
