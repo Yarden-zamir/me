@@ -5,7 +5,7 @@ tags: [dates/2022/02/13/migration, seeds/games]
  
 Idea - use [[kotlin/compose]] to write a game that is an app with a fake desktop UI with terminal and internet and deep story. 
 
-Background:: you are a vigilanty by night character in a future society where the internet is decided into clusters for "safety" from hackers and malicious AI
+Background:: you are a vigilante by night character in a future society where the internet is decided into clusters for "safety" from hackers and malicious AI
 
 The player is a spreadsheet worker in cluster \#4409
 
@@ -24,7 +24,7 @@ Gameplay loop :: [
 - hacking  
 ]
 
-work the player Hass to do:
+work the player Has to do:
 - Has to be no more than ten mins
 - Has to be simple enough but still challenging
 - Ideas
