@@ -11,3 +11,4 @@ We split our budget between buckets, from the obvious ones like **sleep**, **eat
 Then when we expand time we note down which bucket was used and we subtract, then it's much easier to let ourselves enjoy some good [[Netflix]] time without feeling guilty, and also gives us a solid point to stop at when we consume too much time on it.
 
 ![[Time Buckets mockup.svg]]
+
