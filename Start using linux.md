@@ -24,8 +24,17 @@ Here goes nothing. Goodbye windows!
 
 ---
 # First day of using linux
-So the transition went well. The only thing that differed from expectation was how finiky, none-responsive and generally unintuitive KDE-plasma was, even for the extra customisability it's not worth it. Tried Gnome and it's generally a much better experiance, (although barely any settings wtf)
+So the transition went well. The only thing that differed from expectation was how finiky, none-responsive and generally unintuitive KDE-plasma was, even for the extra customisability it's not worth it. Tried Gnome and it's generally a much better experience, (although barely any settings wtf)
 
 Most of my zsh toolkit from mac worked as is, made some slight changes to make the scripts more universal
 
-Funnely enough I didn't find a good terminal emulator. Linux, the land of the terminal doesn't have a feature rich terminal emulator that works. There is nothing close to Iterm2 or warp. For now i'm making do with a basic gnome one but I definitely need to figure out a solution for this
+Funnily enough I didn't find a good terminal emulator. Linux, the land of the terminal doesn't have a feature rich terminal emulator that works. There is nothing close to Iterm2 or warp. For now i'm making do with a basic gnome one but I definitely need to figure out a solution for this
+
+---
+# My summery of the arch linux experience 
+Was less unstable than expected and overall I had a good experiance but there were many small bugs and annoyances. Games needed handholding to work and updating sucked. 
+
+---
+# Next steps 
+## Nixos
+My new best friend is nixos. I am very much in-love with the idea of an "imutable" declarative system that can be version controled and replicated. I started using it last week and so far the experiance was much nicer than the one I had in arch. The docs suck, the comunity is small and scattered acros different forums and chats, it's new so no help from AIs like chatgpt, and a mindbending aproach to managing a system. But with all of the above, somehow in about two hours I got a working system with all my software including nvidia drivers, and games worked almost out of the box. After figuring out the drivers and doing the incredibly simple `steam.enable = true` I launched [[Baldures gate 3]] and it ran better than it ever did on arch (steam took longer to precache shades for some reason, could be just a first time thing :shrug:) now lets build my [[nixos workflow]]
