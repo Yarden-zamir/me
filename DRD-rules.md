@@ -1,7 +1,7 @@
 DRD
 
 *Resolution mechanics*	
-Any task has it’s *🛡️ Resolution Class* to succeed in the task you need to surpass it with your *💪 Resolution Ability* or add the result of a *🎲 Resolution Dice* - a 2d4 roll
+Any task has it’s **🛡️ Resolution Class** to succeed in the task you need to surpass it with your *💪 Resolution Ability* or add the result of a *🎲 Resolution Dice* - a 2d4 roll
 
 Risk and strain
 Some actions are risky, requiring a *⚠️ Risk Dice* a d8 roll where 1 leads to harm of self and 8 leads to collateral damage. Any form of harm to the character is loosely represented by *☠️ Strain*. Some things are always risky, like energy usage in *🧙 Casting* 
