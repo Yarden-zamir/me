@@ -1,13 +1,13 @@
 DRD
 
-*Resolution mechanics*	
-Any task has it’s **🛡️ Resolution Class** to succeed in the task you need to surpass it with your *💪 Resolution Ability* or add the result of a *🎲 Resolution Dice* - a 2d4 roll
+**Resolution mechanics**	
+Any task has it’s **🛡️ Resolution Class** to succeed in the task you need to surpass it with your **💪 Resolution Ability** or add the result of a **🎲 Resolution Dice** - a 2d4 roll
 
 Risk and strain
-Some actions are risky, requiring a *⚠️ Risk Dice* a d8 roll where 1 leads to harm of self and 8 leads to collateral damage. Any form of harm to the character is loosely represented by *☠️ Strain*. Some things are always risky, like energy usage in *🧙 Casting* 
+Some actions are risky, requiring a **⚠️ Risk Dice** a d8 roll where 1 leads to harm of self and 8 leads to collateral damage. Any form of harm to the character is loosely represented by **☠️ Strain**. Some things are always risky, like energy usage in **🧙 Casting** 
 
 Drama Tokens and Legendary Acts
-*🗣️ Drama Tokens* are earned through dramatic, awesome actions. These can be used to add a d4 to any resolution including ones that don’t require resolution dice like *🧙 Casting*. 🦸 Legendary Acts are awarded by the whole table to characters that did something completely legendary and have a state alter related to said act
+**🗣️ Drama Tokens** are earned through dramatic, awesome actions. These can be used to add a d4 to any resolution including ones that don’t require resolution dice like **🧙 Casting**. 🦸 Legendary Acts are awarded by the whole table to characters that did something completely legendary and have a state alter related to said act
 
 
 
@@ -19,24 +19,24 @@ Drama Tokens and Legendary Acts
 
 
 
-*🛡️ Resolution Class*
+**🛡️ Resolution Class**
 Ranks the difficulty of a task
 Unaffected by the person undertaking the task.
-*💪 Resolution Ability*
+**💪 Resolution Ability**
 A bonus or a penalty from expertise, equipment or circumstance that determines success in completing tasks.
 A higher Resolution Ability  secures automatic successes if it surpasses the Resolution Class
-*🎲 Resolution Dice* 
+**🎲 Resolution Dice** 
 A 2d4 roll that is added to the Resolution Ability to determine outcome.
-*⚠️ Risk Dice* 
+**⚠️ Risk Dice** 
 A d8 roll determining the potential negative consequences of dangerous or reckless actions.
-Outcomes can be *harm to self (1) to collateral damage (8) or safe (2-7)*
+Outcomes can be **harm to self (1) to collateral damage (8) or safe (2-7)**
 One can choose to take a reckless action to add 2 to Resolution Ability
-*☠️ Strain*
+**☠️ Strain**
 Indicates fatigue, stress, injury but also karma, luck and plot armor.
 Levels of 4 or 5 result in incapacitation or complete loss of the character, respectively.
-*🗣️ Drama Tokens*
+**🗣️ Drama Tokens**
 Group resources earned through dramatic, awesome actions. These can be used to add a d4 to any resolution including ones that don’t require resolution dice like casting
-*🧙 Casting* 
+**🧙 Casting** 
 High-risk, high-reward, powerful and unique abilities 
 Based on cast chart, see the resolution class of the desired action. Surpass it with Resolution Ability or consume energy to increase it while increasing risk
 🔋Energy
@@ -50,27 +50,27 @@ A legendary act can be anything from a bonus, a cast, etc.
 
 
 
-*🧙 Casting*
+**🧙 Casting**
 Any living entity (and some inanimate) have a pool of energy inside them that may contain combustible or continuous energy. For most, having the pool contain anything actively is a risk that grows as time goes on. Anyone can charge their own pool with continues energy using their own muscles or with combustible energy by consuming simple carbohydrates (common source is ash)
 
 Combustible energy - Use immediately on cast
 Continues energy - Used while the spell is maintained, requires concentration, meaning that if you get hit, you might lose the cast
 
-When casting, add the *🛡️ Resolution Class*
- (RC) from each category together, that’s your total RC, you need to surpass it with your *💪 Resolution Ability*. To do so, you may need to consume energy.
+When casting, add the **🛡️ Resolution Class**
+ (RC) from each category together, that’s your total RC, you need to surpass it with your **💪 Resolution Ability**. To do so, you may need to consume energy.
 
 Example : to use Calida’s Thermic Touch to make my 10 foot rope conductive, my mass will be 2Rc as it’s heavier than a coin but no heavier than a rock. And my Conductivity change will be 3Rc, as I want it to be conductive but it doesn’t need to be extremely so. Together that means I need 5Rc. My base resolution ability is 3, so to reach 5 I need to use my muscles to generate continuous energy, even though it’s risky. So my cast succeeds, and I throw a Risk Dice to see if there are negative consequences Note, casting does not involve dice unless using a Drama Token
 
 
 
-*Abilities*
+**Abilities**
 Abilities represent the character's ableness to deal with any situation. When a situation requires resolution, the player will usually add one or two relevant Abilities to their Resolution Ability (can add the same one twice)
 
-*👁️‍🗨️ Sense* - alertness, perception, vision, hearing, touch, attentiveness
-*👥 Social* - diplomacy, etiquette, leadership, intimidation, persuasion, seduction, social ques
-*💪 Physical* - strength, endurance, agility, dexterity, speed, balance
-*🛠️ Mechanical* - engineering, repairng, solving mechanical problems, building, crafting
-*🧙 Casting* - casting spells/casts, using magic, channeling energy, using magical items
+**👁️‍🗨️ Sense** - alertness, perception, vision, hearing, touch, attentiveness
+**👥 Social** - diplomacy, etiquette, leadership, intimidation, persuasion, seduction, social ques
+**💪 Physical** - strength, endurance, agility, dexterity, speed, balance
+**🛠️ Mechanical** - engineering, repairng, solving mechanical problems, building, crafting
+**🧙 Casting** - casting spells/casts, using magic, channeling energy, using magical items
 
 
 
