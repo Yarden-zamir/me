@@ -7,7 +7,7 @@ Any task has it’s 🛡️ **Resolution Class** to succeed in the task you need
 
 ## Risk and strain
 
-Some actions are risky, requiring a **⚠️ Risk Dice** a d8 roll where 1 leads to harm of self and 8 leads to collateral damage. Any form of harm to the character is loosely represented by **☠️ Strain.** Some things are always risky, like energy usage in **🧙 Casting** 
+Some actions are risky, requiring a **⚠️ Risk Dice** a d6 roll where 1 leads to harm of self and 6 leads to collateral damage. Any form of harm to the character is loosely represented by **☠️ Strain.** Some things are always risky, like energy usage in **🧙 Casting** 
 
 
 ## Casting
@@ -75,7 +75,7 @@ Any living entity (and some inanimate) have a pool of energy inside them that ma
 
 When casting, add the **🛡️ Resolution Class**
 
- (RC) from each category together, that’s your total RC, you need to surpass it with your **💪Resolution Ability**. To do so, you may need to consume energy.![](https://lh7-us.googleusercontent.com/ibzxRDoCzCxUNjRoeDYrHYvvKNydJeR0pFiiB5ufAFZbecQvud2riaGnm3sTlKyLDjdb8tRhyUREDTgLTrSLAdKKbrg43O6BWDEIcF5f7Jh4EW8dXG8oCGNlnUc6WQgC-Q8fCVn9yKELrIzt2Iy1W4o)
+ (RC) from each category together, that’s your total RC, you need to surpass it with your **💪Resolution Ability**. To do so, you may need to consume energy.![](https://lh7-us.googleusercontent.com/2q96LFn9YFTMt5geyjRdPDam_nfLakFfWmXas3H_1P66Et5gRPS2hLpzz-Os_1uKNZXZ0NHGCUp7Hk1_qEac8tkOR6IY6LjtY9AKQEs9LNwI-hL216sRQ2rx53tUCKz-isFPtmjeK4XWM8plCjrrsQk)
 
 **Example** : to use Calida’s Thermic Touch to make my 10 foot thin rope conductive, my mass will be 2Rc as it’s heavier than a coin but no heavier than a rock. And my Conductivity change will be 3Rc, as I want it to be conductive but it doesn’t need to be extremely so. Together that means I need 5Rc. My base resolution ability is 3, so to reach 5 I need to use my muscles to generate continuous energy, even though it’s risky. So my cast succeeds, and I throw a Risk Dice to see if there are negative consequences Note, the casting itself does not involve dice, 
 
