@@ -2,11 +2,11 @@
 aliases: [My theory of life]
 tags: [dates/2022/02/09, writeups]
 ---
-[[Markus Aurelius]] used the term "sovereignty of the mind". In this writeup I will push this concept the way I perceive it.  
+[[Markus Aurelius]] used the term "sovereignty of the mind" which i really liked. In this writeup I will push this concept the way I perceive it.  
 My theory and outlook on life
 
 ## Preface
-I am writing not to teach or expose something new, but to assemble language and tools for something we all already posses. Treat this as a convoluted dictionary before a treating it as a guide.
+I am writing not to teach or expose something new, but to assemble language and tools for something we all already have. Treat this as a convoluted dictionary before a treating it as a guide.
 
 ## Core
 
