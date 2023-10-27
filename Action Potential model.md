@@ -18,7 +18,7 @@ An **Action desire** is that thing that your "higher mind" strives for, that thi
 I look at friction as that subjective thing that takes place at the moment itself, that actual element that stand in your way. It is not necessarily the difficulty of the task, but the difficulty of committing to that task (which is then affected by the perceived difficulty of the task too). Remember, we are talking about action potential, not about action. Meaning that you can have a high action potential to be the best rock paper sizors player in the world but that does not mean the 
 
 # Functional Use - How to Do Things
-Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding or taking such activities `Action Potential = perceived Value / Friction` (The true evaluation is `Action Potential = Perceived Value / Perceived Friction` as we don't have access to objective value or friction) and take it apart step by step, then work to reinstate our mindset with this as a principle
+Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding or taking such activities `Action Potential = perceived Value / Friction` and take it apart step by step, then work to reinstate our mindset with this as a principle
 
 
 We have an **Action Desire** which doesn't correlate with the **Action Potential** for this same action, to make it correlate there are a few things we can play with.
