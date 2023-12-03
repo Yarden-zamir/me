@@ -22,7 +22,3 @@ If you just know things, that's not evolution. If you just try many things until
 
 The two concepts can be joint without being evolution, for example, a brute force approach to crack a password. The computer knows about the possible solutions theoretically, then it attempts (trial and error) each one in turn.
 
-# Two parts that touch us every day
-Now, in the development of Humanity, there are a few elements that relay on evolution, the simplest one would be genetic evolution, where each iteration is a "trial" for a set of genes based on the last with slight changes. Then there is social evolution, an evolution of ideas that are meant to better humanity
-
-It's important for us to understand the distinction between the evolution of the human species in terms of genes and the evolution of the human society
