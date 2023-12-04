@@ -10,3 +10,6 @@ Tchaikvsky violin concerto - [
 
 Introduction and rondo capriccioso - [
 ](https://www.youtube.com/watch?v=Scf3_BTL3WQ)https://www.youtube.com/watch?v=Scf3_BTL3WQ
+
+Mozart violin concerto no.3 - [
+](https://www.youtube.com/watch?v=IhQAtkXOK6o&t=617s)https://www.youtube.com/watch?v=IhQAtkXOK6o&t=617s
