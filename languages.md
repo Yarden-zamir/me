@@ -22,5 +22,5 @@ note: technology is any tool that facilitates actions.
 What is intersting about language is that a person can act and talk differently while using different language.
 Is there perhaps a change in the brain while using differnt words? can some words trigger specific brain areas?
 Richard Feynman says that when you know how to say 'bird' in different languages you know nothing about the bird.
-but I am not sure that this is the case. maybe you train your brain on different patterns [[patterns]] when you speak many langauges. since each one has its structure.
+but I am not sure that this is the case. maybe you train your brain on different [[patterns]] when you speak many langauges. since each one has its structure.
 I believe that music, mathematics and spoken languages are all different languages. different ways to pass on ideas.
