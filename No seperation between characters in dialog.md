@@ -1,5 +1,0 @@
----
-aliases: [Writing experiment]
-tags: [dates/2022/11/28, ]
----
-Why does it matter? She asked simply? What? I answered. that the earth is round. what do you mean what does it matter, it just does, it's round. Yes, but I guess my question is why does it matter to us, to you, that the earth is round. We'll.. I paused at that, no one ever really took that side of the argument before, they usually either object, or agree with proclamation, no one ever question the question itself. Well, I repeated, I guess people just like to know things about the world, about everything for that matter, it is in our nature, she opened her mouth to speak but I continued, but to specifically answer your question I guess for me it's mostly just more food for thought and discussion, you see, half of what I do in life is speak. She smirked at that--more than half then, most, of what I do is talk, and what is a better thing to talk about than the incomprehensible. What about the weather? Or your health, what's wrong with using actual topics that relate to you? But those are extremely dull topics, would you rather talk about one of those before the conversation we are having now?
