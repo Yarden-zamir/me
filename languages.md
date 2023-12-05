@@ -1,11 +1,4 @@
 ---
-aliases: []
-tags: [dates/2022/02/13/migration, media/shows, seeds/worldbuilding]
-chips:
-  Rating: 95
-  Consumed: true
-source: https://www.netflix.com/watch/81446667?trackId=14183263
-source: https://en.wikipedia.org/wiki/Arcane_(TV_series)
 ---
 
 Language is what made humans different from other species. 
