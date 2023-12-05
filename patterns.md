@@ -1,10 +1,5 @@
 ---
-aliases: []
-tags: [dates/2022/02/13/migration, media/shows ]
-chips:
-  Rating: 96
-  Consumed: true
-Source: https://www.imdb.com/title/tt4158110/
+
 ---
 If we have to define intelligence, how would we do it?
 I believe that the defenition has to include recognizing patterns quickly.
