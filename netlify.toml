@@ -20,11 +20,11 @@ publish = "public"
 
 [build.environment]
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Never do something in ten minutes if you can automate it in ten hours"
+LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Readme"
 # (Optional) Site title on landing page
-LANDING_TITLE = "🥔"
+LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/shahar17/me2"
