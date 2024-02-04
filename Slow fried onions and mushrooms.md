@@ -1,4 +1,3 @@
-## description
 Fried onions with mushrooms and ground beef
 
 ## ingredients
