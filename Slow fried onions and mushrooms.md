@@ -13,8 +13,8 @@ Fried onions with mushrooms and ground beef
 - 2 to 3 mushrooms boxes
 - 400g ground beef with 25%+ fat or equivalent amount of fake meat
 - salt, pepper, sweet paprica
-- bunus: garlic head
-- bunus: parsley
+- bonus: garlic head
+- bonus: parsley
 
 ## steps
 1. Cut onions and half the mushrooms as small as is comfortable for you to cut, the smaller they will be the faster they will carmelize becauase of the larger surface area. You can turn on the heat on high with some oil and throw them as soon as you finish each one.

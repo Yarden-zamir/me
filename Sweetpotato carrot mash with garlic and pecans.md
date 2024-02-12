@@ -16,9 +16,7 @@ A mashed sweetpotato and carrots dish with a lot of garlic and baked pecans
 - ⁠cinnamon
 - ⁠sweet paprika
 - ⁠spicy red chilly
-
-## ingredients for serving (bonus, not required) per pan
-- 3 bell peppers split to 4 or 5 slices to use as advanced delivery mechanism
+- bonus: 3 bell peppers split to 4 or 5 slices to use as advanced delivery mechanism
 
 ## steps
 1. ⁠dice the yams and carrots as small as you can while keeping them uniform so they dont burn (small means fast to cook, big means fast to cut, do your calculations for what works for you)
