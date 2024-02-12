@@ -1,3 +1,11 @@
+---
+aliases: []
+tags: [food]
+chips:
+  Vegenable: true
+  Quick: false
+  Minimal-tooling: true
+---
 Fried onions with mushrooms and ground beef
 
 ## ingredients
@@ -21,3 +29,4 @@ Fried onions with mushrooms and ground beef
 - You can add parsley at the end
 - Dont add water
 - You can take the stem of the second batch of mushrooms and toss it with the onions
+- Unlike the [[basic veggies and protein daily]] this dish works best with some other dish as focus, I recommend [[Sweetpotato carrot mash with garlic and pecans]]
