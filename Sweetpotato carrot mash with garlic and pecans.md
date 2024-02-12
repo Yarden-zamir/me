@@ -4,7 +4,7 @@ tags: [food]
 chips:
   Vegenable: true
   Quick: false
-  Minimal-tooling: false
+  Minimal tooling: false
 ---
 A mashed sweetpotato and carrots dish with a lot of garlic and baked pecans 
 

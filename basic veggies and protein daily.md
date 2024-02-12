@@ -4,7 +4,7 @@ tags: [food]
 chips:
   Vegenable: true
   Quick: true
-  Minimal-tooling: true
+  Minimal tooling: true
 ---
 This is the framework for my usual meal at the end of the day.
 

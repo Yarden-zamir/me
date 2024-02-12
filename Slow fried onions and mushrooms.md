@@ -4,7 +4,7 @@ tags: [food]
 chips:
   Vegenable: true
   Quick: false
-  Minimal-tooling: true
+  Minimal tooling: true
 ---
 Fried onions with mushrooms and ground beef
 
