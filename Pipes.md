@@ -104,6 +104,8 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 - -\\ ordered reversed split operator
 - |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
 - ; is a pipe seal # maybe not needed
+- -|| is a pipe enu
+
 ---
 * `pipe[0]` is the current value of the pipe
 * `it` is a pointer for `pipe[0]`
@@ -169,6 +171,7 @@ list | print it # prints [1 2 3 4 5]
 list -/ print it # prints 1 2 3 4 5 (with new lines)  
 list -| print it # prints 3 4 1 2 5 (arbitrary order as they print when ready) (with new lines)
 
+
 ---
 core language ideas:  
     parrallism  
@@ -178,3 +181,24 @@ core language ideas:
         * instead of functions, a variable can have inputs, a variable with inputs will only compute when called  
         * spaces are allowed in names
     
+---
+
+Objects never have functions, instead, any function can be called on an object if the first param of the function is the object.  
+
+
+
+is (string: String) palindrome = it == reverse 
+is (string: String) palindrome = 
+is (string: String) palindrome = 
+is (string: String) palindrome = 
+is (string: String) palindrome = number | string | it == it.reverse() | number
+is (string: String) palindrome = number | string | it == it.reverse() | number
+is (string: String) palindrome = number | string | it == {it | reverse()} | number
+is (string: String) palindrome = number | string | it == {it | reverse()} | number
+start server on (port: Number) = {
+    http::server(port) | start(it) | route(it) |\
+        'GET /' | send("hello world?") |\
+        'GET /hello' | send("hello") |\
+        'GET /world' | send("world") |\
+        'GET /hello/world' | send("hello world")
+}
