@@ -1,5 +1,12 @@
+---
+aliases: []
+tags: [food]
+chips:
+  Vegenable: true
+  Quick: true
+  Minimal-tooling: true
+---
 This is the framework for my usual meal at the end of the day.
-![[food/IMG_20230115_215334.jpg]]
 
 # Core
 - 400g to 1k (depending on their density) of veggies easily acquired as frozen bags you can get really cheaply
