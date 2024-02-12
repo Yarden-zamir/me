@@ -25,8 +25,8 @@ A mashed sweetpotato and carrots dish with a lot of garlic and baked pecans
 2. ⁠mix in a bowl with salt, pepper, olive oil, paprika, red chilly flakes
 3. ⁠put in oven (until almost burned)
 4. ⁠mix garlic and pecans in the same bowl with more of the same spices but slightly more salt than you think
-5. ⁠put in oven (for about ten to fifteen minutes)
-6. add a lot of butter / coconut butter (roughly 50 to 75 grams)
+5. ⁠put in oven (for about ten to fifteen minutes) (can be put on top of the sweetpotatoes)
+6. put in bowl add a lot of butter / coconut butter (roughly 50 to 75 grams)
 6. ⁠mash together, doesn't need to turn into complete uniform paste, even just a little mashing is enough
 
 ## notes
