@@ -15,7 +15,7 @@ chips:
 > [[Yarden Zamir|Yarden]]
 
 # What Are You Doing Yarden? What is This Place?
-I have always wanted to write more than just for myself. This is my attempt to do so by making my writing [[Public by default]], thus putting the friction point on hiding rather than sharing and increasing the [[Action Potential Model|Action Potential]] of my desired goal
+This is my attempt of making my writing [[Public by default]], putting the friction point on hiding rather than sharing and increasing the [[Action Potential Model|Action Potential]] of my desired goal, which in this case is to avoid keeping "secret" things that have no specific reason to be thus.
 
 # Half Baked
 The nature of [[Public by default]] means that most of the "content" here is unpolished ideas and tangents, that's alright
