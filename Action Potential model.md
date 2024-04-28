@@ -12,7 +12,7 @@ tags:
 
 
 ---
-`Action Potential = Perceived Value / Friction`
+`Action Potential = Energy (Perceived Value / Friction)`
 
 # Why We Do What We Do - a Model
 This model is based on the view that we make micro and macro calculations all the time, specifically in a way that is not directly known to us, and that by understanding those processes, simple or complex as they may be, we can very actively improve our lives, and more specifically our agency when it comes to their layout. One way i believe we can do so is using the view of action potential to look at what we do and how we can influence it.
@@ -25,7 +25,7 @@ An **Action desire** is that thing that your "higher mind" strives for, that thi
 I look at friction as that subjective thing that takes place at the moment itself, that actual element that stand in your way. It is not necessarily the difficulty of the task, but the difficulty of committing to that task (which is then affected by the perceived difficulty of the task too). Remember, we are talking about action potential, not about action. Meaning that you can have a high action potential to be the best rock paper sizors player in the world but that does not mean the 
 
 # Functional Use - How to Do Things
-Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding or taking such activities `Action Potential = perceived Value / Friction` and take it apart step by step, then work to reinstate our mindset with this as a principle
+Sometimes there is something we dearly want to do but find ourselves again and again avoiding. To change that we need to take a look at the evaluation that our brains go though when avoiding or taking such activities `Action Potential = Energy (Perceived Value / Friction)` and take it apart step by step, then work to reinstate our mindset with this as a principle
 
 
 We have an **Action Desire** which doesn't correlate with the **Action Potential** for this same action, to make it correlate there are a few things we can play with.
@@ -34,11 +34,15 @@ We have an **Action Desire** which doesn't correlate with the **Action Potential
 - Manipulate friction of action
 - Manipulate perceived value of inverse action
 - Manipulate friction of inverse action
+- Manipulate available energy for completing the action
 
 > [!IDEA] Random tangent - how would this look with [[Branch based writing]]?
 > - Manipulate [Action's, Inverse Action's]
 > 	- perceived value
 > 	- friction
+> Tangent update : this does not work when adding elements to the parents in the list which are not parents of the same element types.
+
+
 
 ## The Action's Attributes
 The easiest way we know to "motivate" ourselves is to modify the existing actions attributes. This is the classic approach
@@ -47,6 +51,8 @@ The easiest way we know to "motivate" ourselves is to modify the existing action
 We can increase the perceived value of an action by using different actions to increase the **Action Potential**, we can do that by thinking how amazing it would be to preform such action and how many rewards we would reap afterwards, we can promise ourselves things, lie to ourselves, make the value proposition high which in turn makes us more likely to go though.
 
 ### Friction (or Perceived Difficulty, Price )
-We can reduce friction of the action with other actions by doing some of the process ahead of time, making the situation more clear (when things are unclear or uncertain we tend to avoid taking action = increase friction) or acquiring help from others
+We can reduce friction of the action with other actions by doing some of the process ahead of time, removing things that stand in the way, removing distractions, making the situation more clear (when things are unclear or uncertain we tend to avoid taking action = increase friction).
+
 
 ## The Environment Attributes
+
