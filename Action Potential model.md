@@ -1,7 +1,12 @@
 ---
-parents: []
-aliases: [Action Potential, Why we do what we do, Friction]
-tags: [dates/2022/02/13/migration, writeups, ]
+parents: 
+aliases:
+  - Action Potential
+  - Why we do what we do
+  - Friction
+tags:
+  - dates/2022/02/13/migration
+  - writeups
 ---
 ↖️ [[The Sovereign Mind|The Sovereign Mind]]
 
@@ -10,7 +15,7 @@ tags: [dates/2022/02/13/migration, writeups, ]
 `Action Potential = Perceived Value / Friction`
 
 # Why We Do What We Do - a Model
-This model is based on the view that we make micro and macro calculations all the time, specifically in a way that is not directly known to us, and that understanding those processes, símple or xomplex as they may be, we can very activily improve our lives, and more specifically our agency when it comes to their layout. One way i believe we can do so is using the view of action potential to look at what we do and how we can influence it.
+This model is based on the view that we make micro and macro calculations all the time, specifically in a way that is not directly known to us, and that by understanding those processes, simple or complex as they may be, we can very actively improve our lives, and more specifically our agency when it comes to their layout. One way i believe we can do so is using the view of action potential to look at what we do and how we can influence it.
 
 At any given moment, big or small, we calculate what out next step, micro or macro is going to be. Our brains keep a score of the "potential" for each given action, then goes with one from the "top" of the list.
 
