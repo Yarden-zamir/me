@@ -1,3 +1,10 @@
 /.obsidian 
 Secret
 Templates
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
+/.smart-env
