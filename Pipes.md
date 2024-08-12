@@ -15,12 +15,12 @@ pipes are evaluated from left to right in order
 blocks are dispatched in order but can evaluate in order of completion and are waited when needed
 
 # Async by Default
-Because blocks are not awaited by default, ten lines of code means ten 'pipes' that are asynchronous
+Because blocks are not awaited by default, ten lines of code means ten 'pipes' that are asynchronous and run at the same time when called
 
 # Syntax
 
 ## Function Definitions
-* functions are just lazy variables that evaluate when called.
+* there are no functions, functions are just lazy variables that evaluate when called.
 * Any variable that has brackets in it's definition is treated as a lazy variable / function.
 * input brackets for each argument names are plain text, can use spaces and symbols (except for some special ones like brackets), arguments can be anywhere in the function's signature
 
@@ -39,7 +39,7 @@ make stuff happen () = {
 }
 ```
 ```pipes
-add (number :Number) (another number :Number) = {
+add (number :Number) to (another number :Number) = {
 	number + another number
 }
 
@@ -82,8 +82,8 @@ print 3
 
 Output 4 1 2 3 (after 5 seconds)
 ```pipes
-print (5)
-5 | print (it)
+print (3)
+4 | print (it)
 5 | print
 ```
 as it is implied. the output if the beginning of the pipe (5) is passed to the next pipe segment as `it`.
@@ -103,7 +103,6 @@ generate number after (seconds : Number) = after (seconds) do {random::number}
 - -/ is ordered pipe split operator, will create a pipe for each item in 'it' but will wait for the previous pipe to finish before starting the next one
 - -\\ ordered reversed split operator
 - |- is a pipe join operator, will join all pipes on the left side into one pipe. Await all. Collect
-- ; is a pipe seal # maybe not needed
 - -|| is a pipe enu
 
 ---
