@@ -2,6 +2,7 @@
 aliases: []
 tags: [dates/2022/11/19, ]
 ---
+We created a reality that is so alien to what our bodies and brains evolved to deal with that we find ourselves endlessly clashing against it with frustration and pain. Our instincts are telling us to do one thing, our environment another, and our external incentives pull towards another still. Yet none of those make us happy on their own. 
 
 # Initial Definition of evolution
 The definition for evolution in [[Wikipedia]]
@@ -25,4 +26,4 @@ The two concepts can be joint without being evolution, for example, a brute forc
 # Two parts that touch us every day
 Now, in the development of Humanity, there are a few elements that relay on evolution, the simplest one would be genetic evolution, where each iteration is a "trial" for a set of genes based on the last with slight changes. Then there is social evolution, an evolution of ideas that are meant to better humanity
 
-It's important for us to understand the distinction between the evolution of the human species in terms of genes and the evolution of the human society
+It's important for us to understand the distinction between the evolution of the human species in terms of genes and the evolution of human society.
