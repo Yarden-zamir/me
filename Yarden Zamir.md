@@ -18,3 +18,7 @@ Here's a few **I**s 👇
 - I am often vain, many times a hypocrite and sometimes -
 - I branch off very easily and often, creating a beautiful tree and many unfinished branches
 - I like pipes
+
+<a href="https://github.com/yarden-zamir/obsidian-zola-plus">
+  <img align="center" src="https://github-stats.yarden-zamir.com/api/pin/?username=Yarden-zamir&repo=obsidian-zola-plus&theme=calm&show_icons=true&border_radius=20" />
+</a>
