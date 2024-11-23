@@ -6,9 +6,9 @@ chips:
   Quick: true
   Minimal tooling: false
 ---
-![[food/IMG-20241112-WA0010.jpg]]
-![[food/IMG-20241119215642.jpg]]
 Legend tells of a powerful magical mix of nuts and spices that can unlock the gates to the highest peaks and the lowest shores. It is said that while it may induce a slight affect of hat related forgetfulness, the price is well worth the power it brings forth. If, dear reader, you are brave enough to mix and spice and roast said nuts, please, read on..
+
+![[food/IMG-20241119215642.jpg]]
 
 # Ingredients
 - Nuts
@@ -35,3 +35,8 @@ Legend tells of a powerful magical mix of nuts and spices that can unlock the ga
 4. Bake for 10 to 15 minutes, watch closely to make sure they don't burn, they can burn easily
 5. Let cool for a few minutes, texture is off when hot
 6. Pour into a sealable bag, possibly one that contained rice in it's past life (/s)
+
+![[food/IMG-20241112-WA0010.jpg]]
+
+
+
