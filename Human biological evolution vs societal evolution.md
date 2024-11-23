@@ -8,7 +8,7 @@ We created a reality that is so alien to what our bodies and brains evolved to d
 The definition for evolution in [[Wikipedia]]
 > **Evolution** is change in the [heritable](https://en.wikipedia.org/wiki/Heredity "Heredity") [characteristics](https://en.wikipedia.org/wiki/Phenotypic_trait "Phenotypic trait") of biological [populations](https://en.wikipedia.org/wiki/Population "Population") over successive generations.
 
-Which is a pretty good initial definition, aside from one element, the biological element, I see evolution as the concept of successive changes in traits towards a vast array of problem domains over iterations, the problem domains, ie requirements, may not stay the same between iterations and iterations may not be rigidly defined. 
+Which is a pretty good initial definition, aside from one element, the biological element, I see evolution as the concept of **successive changes in traits towards an array of problem domains over iterations**, the problem domains, ie requirements, may not stay the same between iterations and iterations may not be rigidly defined. 
 
 
 # Distilled definition of evolution
