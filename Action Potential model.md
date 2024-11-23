@@ -54,5 +54,16 @@ We can increase the perceived value of an action by using different actions. Thi
 ### Friction (or Perceived Difficulty, Price )
 We can reduce friction of the action with other actions by doing some of the process ahead of time, removing things that stand in the way, removing distractions, making the situation more clear (when things are unclear or uncertain we tend to avoid taking action = increase friction). Reducing the feedback cycle of the task, making it more predictable
 
+## The Inverse Action's Attributes
+Every action has it's equally important counterpart, easily inferred by slapping a "not" before said action, the inverse action. Washing dishes, has not washing dishes to oppose it, helping a friend, not helping a friend, making dinner, not making dinner, etc. It's very common, especially when motivating others to manipulate the Inverse Action Potential instead of the Action Potential itself.
+
+### Perceived Negative Value
+By attaching, increasing or otherwise manipulating the negative value of the Inverse Action, we can cause the Action Potential itself to increase. Easily achieved with punishments or threats. If you don't do the dishes you don't get to play, if you don't follow this law you will be sent to jail, if you don't brush your teeth they will rot and fall out,etc.
+
+It is easy for us to look at those as something less useful than the Attributes of the action itself, as we learn often about the power of positive reinforcement over negative one, especially on the long term, but having all the tools in our toolbox is critical, and there are pros and cons to each approach, when fostering avoidance or when trying to work on something in the very short term negative reinforcement was shown to be very effective. Just note the side effects of the approach are usually more severe.
+
+### Friction (or Perceived Difficulty, Price )
+Sometimes when we don't do something, it's because it's just so easy to keep not doing it, it's a default, a habit, cheaper, easier, or in other words, not doing the action has less friction. We can play around with this by making task avoidance more difficult, less automatic, more intentional, etc. 
+
 ## The Environment Attributes
 
