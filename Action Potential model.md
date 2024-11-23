@@ -63,7 +63,7 @@ By attaching, increasing or otherwise manipulating the negative value of the Inv
 It is easy for us to look at those as something less useful than the Attributes of the action itself, as we learn often about the power of positive reinforcement over negative one, especially on the long term, but having all the tools in our toolbox is critical, and there are pros and cons to each approach, when fostering avoidance or when trying to work on something in the very short term negative reinforcement was shown to be very effective. Just note the side effects of the approach are usually more severe.
 
 ### Friction (or Perceived Difficulty, Price )
-Sometimes when we don't do something, it's because it's just so easy to keep not doing it, it's a default, a habit, cheaper, easier, or in other words, not doing the action has less friction. We can play around with this by making task avoidance more difficult, less automatic, more intentional, etc. 
+Sometimes when we don't do something, it's because it's just so easy to keep not doing it, it's a default, a habit, cheaper, easier, or in other words, not doing the action has less friction. We can play around with this by making said Inverse Action, task avoidance, more difficult, less automatic, more intentional, etc. 
 
 ## The Environment Attributes
 
