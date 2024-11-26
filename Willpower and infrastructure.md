@@ -11,9 +11,9 @@ Willpower is the ability to push and do something despite it's difficulty, despi
 
 Having a strong willpower is like a superpower, it's a trumpcard you can use anywhere, you can expand it as fuel to build and achieve, to overcome and challenge, and to push through the most difficult things. It's the ability to become a monstertruck and climb through rocky mountains and thick jungles. A powerful general purpose tool.
 
-On the other side of this coin there is infrastructure, which is the foundation that makes doing a specific thing easier, or in some cases possible. It's the bridge, the road, the habit, the tool, knowledge, skill, or social contract. It leads to things being organic, smooth, automatic in a much more predictable way than willpower.
+On the other side of this coin there is infrastructure, which is the foundation that makes doing a specific thing easier, or in some cases possible. It's the bridge, the road, the habit, the tool, knowledge, skill or social contract. It leads to things being organic, smooth, automatic in a much more predictable way.
 
-Having good infrastructure will always be better than using willpower for the same task, the conflict arises when you don't have that infrastructure, do you invest energy and willpower to build it? Do you invest those directly in the task? It's not a black and white answer, and it's not a simple question.
+Having good infrastructure will always be better than using willpower for the same task, the conflict arises when you don't have that infrastructure, do you invest energy and willpower to build it? Do you invest those directly in the task? It's not a black and white answer, nor is it a simple question.
 
 The advantage of infrastructure over direct willpower is longevity, it's sustainability, durability and predictability. It's building a foundation not only for the desired action now, but for every future one that could be used with the same tools.
 
