@@ -20,8 +20,8 @@ I am writing not to teach or expose something new, but to assemble language and 
 
 ### [[Willpower and infrastructure]]
 
-### [[Secret/Mans Violent Nature]]
+### [[Mans Violent Nature]]
 
 ### [[Problematic elasticity]]
 
-### [[From The Ground Up|From the Ground Up]]
+### [[From the Ground Up]]
