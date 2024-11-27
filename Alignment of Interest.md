@@ -38,4 +38,6 @@ As you can see a lot of times **interest** aligns with **ability**, a shovel's p
 While the  
 For inanimate objects the interest is still based on ability but doesn't have anything on top of it so it always is equal to it's ability
 
+Many people prefer cherry tomatoes over tomatoes as they are often sweeter and have a more intense flavor. That makes sense because in the case of regular tomatoes there have been years of selective breeding to make them more durable as otherwise they wouldn't be able to transport far. The cherry tomato on the other hand had no such issue so could be bred for sweetness or even left as is during the years with good results for the consumer. This is a case where the interest for getting a tasty tomato doesn't directly align with the producer because they might want a durable tomato instead, aligning yourself with the producer that does align with your interest, the one that makes cherry tomatoes leads to better results for you.
+
 [[Control and Responsibility]] 
