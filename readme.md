@@ -1,6 +1,9 @@
 ---
-aliases: [Starting point, Digital Garden]
-tags: [dates/2022/11/27, ]
+aliases:
+  - Starting point
+  - Digital Garden
+tags:
+  - dates/2022/11/27
 chips:
   My Github: https://github.com/Yarden-zamir
   This Repo: https://github.com/Yarden-zamir/me
@@ -29,7 +32,6 @@ Get a feel for what I want this sandbox to feel like
 [[eating tomatoes|Yarden defeating his biggest enemy]]  
 [[Branch based writing]]
 [[Shower Thought How can we capitalize]]  
-[[The Tower]]
 [[Games are evil]]
 
 # Open Source though??
