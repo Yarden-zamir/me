@@ -2,19 +2,20 @@
 aliases: []
 tags: [dates/2022/11/19, ]
 ---
-We created a reality that is so alien to what our bodies and brains evolved to deal with that we find ourselves endlessly clashing against it with frustration and pain. Our instincts are telling us to do one thing, our environment another, and our external incentives pull towards another still. Yet none of those make us happy on their own. 
+We created a reality that is so alien to the one our bodies and brains evolved to deal with that we find ourselves endlessly clashing against it with frustration and pain. Our instincts are telling us to do one thing, our environment another, and our external incentives pull towards another still. Yet none of those make us happy on their own. 
 
-# Initial Definition of evolution
+# Definitions
+## Initial Definition of evolution
 The definition for evolution in [[Wikipedia]]
 > **Evolution** is change in the [heritable](https://en.wikipedia.org/wiki/Heredity "Heredity") [characteristics](https://en.wikipedia.org/wiki/Phenotypic_trait "Phenotypic trait") of biological [populations](https://en.wikipedia.org/wiki/Population "Population") over successive generations.
 
 Which is a pretty good initial definition, aside from one element, the biological element, I see evolution as the concept of **successive changes in traits towards an array of problems over iterations**, the problems, ie requirements, may not stay the same between iterations and iterations may not be rigidly defined. 
 
 
-# Distilled definition of evolution
+## Distilled definition of evolution
 I may define evolution in an even more distilled manor, evolution is trial and error with persistent memory. Simple, yet sufficient for this thought experiment  
 
-# In Depth Personal Definition of evolution
+## In Depth Personal Definition of evolution
 Evolution as a concept is a conglomeration of two simple concepts, trial and error and keeping knowledge.
 
 As long as something has those two traits, and the two relay on each-other, I would say it is evolution
