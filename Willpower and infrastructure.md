@@ -2,6 +2,7 @@
 aliases: []
 tags: [dates/2022/02/13/migration, seeds/writing/writeups ]
 ---
+↖️ [[The Sovereign Mind|The Sovereign Mind]]
 
 To do things I usually take the view of [[Action Potential Model|Action Potential]] to visualize what drives and prevents me from doing things, which then reduces things into either "lets increase value of something" or "lets decrease friction of something" because in both cases I will find said thing easier to undertake.
 
