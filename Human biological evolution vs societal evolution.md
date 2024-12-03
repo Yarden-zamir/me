@@ -2,6 +2,7 @@
 aliases: []
 tags: [dates/2022/11/19, ]
 ---
+↖️ [[The Sovereign Mind|The Sovereign Mind]]
 We created a reality that is so alien to the one our bodies and brains evolved to deal with that we find ourselves endlessly clashing against it with frustration and pain. Our instincts are telling us to do one thing, our environment another, and our external incentives pull towards another still. Yet none of those make us happy on their own. 
 
 The conflict comes from the mismatch between the thing we are built to interface with and the reality we are then dealt, which for the first time in millions of years, differ in such a fundamental way that would by most accounts make the two incompatible. 
