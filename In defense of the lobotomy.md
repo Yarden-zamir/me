@@ -3,7 +3,6 @@ aliases: []
 tags:
  - dates/2024/09/12
  - media/videos
- - the people show
 Consumed: true
 Source: https://www.youtube.com/watch?v=eQhtweaowpo
 ---
