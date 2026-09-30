@@ -1,0 +1,85 @@
+name: Deploy site to Cloudflare
+
+# Replaces the Netlify build. The build steps mirror netlify.toml [build].
+# Site settings stay in netlify.toml [build.environment], read by obsidian-zola-plus env.py.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+env:
+  SITE_REPO: https://github.com/Yarden-zamir/obsidian-zola-plus.git
+  SITE_BRANCH: remove_landing_button
+
+jobs:
+  build:
+    # Python 3.8 (PYTHON_VERSION in netlify.toml) is not available on ubuntu-24.04 runners.
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          path: __obsidian
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.8"
+
+      - name: Install zola from ZOLA_VERSION in netlify.toml
+        run: |
+          pip install rtoml==0.11.0  # newest release with a Python 3.8 wheel
+          ZOLA_VERSION=$(python -c 'import rtoml; print(rtoml.load(open("__obsidian/netlify.toml"))["build"]["environment"]["ZOLA_VERSION"])')
+          mkdir -p "$HOME/.local/bin"
+          curl -fsSL "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" | tar xz -C "$HOME/.local/bin"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Build site
+        run: |
+          git clone --depth 1 -b "$SITE_BRANCH" "$SITE_REPO" __site
+          VAULT=__obsidian python __site/env.py
+          test -s env.sh
+          source env.sh
+          __site/run.sh
+          test -f public/index.html
+
+      - name: Add redirects (ported from netlify.toml [[redirects]])
+        run: |
+          cat > public/_redirects <<'REDIRECTS'
+          /github https://github.com/Yarden-zamir 301
+          /github/* https://github.com/Yarden-zamir 301
+          /git/* https://github.com/Yarden-zamir/me/:splat 301
+          REDIRECTS
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: public
+          path: public
+          retention-days: 7
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          path: __obsidian
+
+      - uses: actions/download-artifact@v7
+        with:
+          name: public
+          path: public
+
+      - uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: "4.144.0"
+          command: deploy --config __obsidian/wrangler.jsonc
