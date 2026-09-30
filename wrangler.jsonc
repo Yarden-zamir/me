@@ -1,0 +1,13 @@
+// Cloudflare Worker that serves the built Obsidian site as static assets.
+// The CI workflow builds the site into ../public (next to this vault checkout).
+{
+  "$schema": "https://unpkg.com/wrangler@4.144.0/config-schema.json",
+  "name": "yarden-zamir-site",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": true,
+  "assets": {
+    "directory": "../public",
+    "not_found_handling": "404-page"
+  }
+  // Custom domains (www.yarden-zamir.com) are added after the workers.dev copy is verified.
+}
