@@ -5,9 +5,12 @@
   "name": "yarden-zamir-site",
   "compatibility_date": "2026-09-30",
   "workers_dev": true,
+  "routes": [
+    // The apex yarden-zamir.com redirects to www through a zone redirect rule, not through this Worker.
+    { "pattern": "www.yarden-zamir.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "../public",
     "not_found_handling": "404-page"
   }
-  // Custom domains (www.yarden-zamir.com) are added after the workers.dev copy is verified.
 }
