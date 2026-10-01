@@ -1,0 +1,15 @@
+// Cloudflare Worker that serves the CV PDF at cv.yarden-zamir.com.
+// To update the CV, replace public/Yarden-Zamir-CV.pdf and push to main.
+{
+  "$schema": "https://unpkg.com/wrangler@4.144.0/config-schema.json",
+  "name": "yarden-zamir-cv",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "cv.yarden-zamir.com", "custom_domain": true }
+  ],
+  "assets": {
+    // _redirects sends / to the PDF. Other paths return 404.
+    "directory": "./public"
+  }
+}
