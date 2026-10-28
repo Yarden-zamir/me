@@ -2,10 +2,13 @@ name: Deploy site to Cloudflare
 
 # Replaces the Netlify build. The build steps mirror netlify.toml [build].
 # Site settings stay in netlify.toml [build.environment], read by obsidian-zola-plus env.py.
+# kitshn 2 deploys the built site to www.yarden-zamir.com; the CV stays on wrangler.
 on:
   push:
     branches: [main]
   pull_request:
+    types: [opened, synchronize, reopened, closed]
+  # kitshn 2 agent keys start a build of one branch (K-718).
   workflow_dispatch:
 
 concurrency:
@@ -14,6 +17,7 @@ concurrency:
 
 permissions:
   contents: read
+  id-token: write
 
 env:
   SITE_REPO: https://github.com/Yarden-zamir/obsidian-zola-plus.git
@@ -21,8 +25,12 @@ env:
 
 jobs:
   build:
+    # The closing of a pull request builds nothing; the kitshn job still removes its preview.
+    if: github.event.action != 'closed'
     # Python 3.8 (PYTHON_VERSION in netlify.toml) is not available on ubuntu-24.04 runners.
     runs-on: ubuntu-22.04
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v7
         with:
@@ -63,26 +71,25 @@ jobs:
           path: public
           retention-days: 7
 
-  deploy:
+  kitshn:
     needs: build
+    if: ${{ !cancelled() && !failure() }}
+    uses: Yarden-zamir/kitshn/.github/workflows/kitshn2-deploy.yml@main
+    with:
+      artifact: public
+      artifact-path: public
+    secrets: inherit
+
+  # The CV stays on wrangler: a repo has one kitshn recipe (K-804).
+  cv:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v7
         with:
           path: __obsidian
-
-      - uses: actions/download-artifact@v7
-        with:
-          name: public
-          path: public
-
-      - uses: cloudflare/wrangler-action@v4
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          wranglerVersion: "4.144.0"
-          command: deploy --config __obsidian/wrangler.jsonc
 
       - name: Deploy CV (cv.yarden-zamir.com)
         uses: cloudflare/wrangler-action@v4
