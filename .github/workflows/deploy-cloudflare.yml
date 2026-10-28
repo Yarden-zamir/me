@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: deploy-${{ github.ref }}
+  group: deploy-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
